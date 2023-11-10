@@ -17,7 +17,7 @@ jobs:
    - name: Download file
      run: |
        mkdir -p lists
-       wget -P lists https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/lists/main.txt
+       wget -O lists/main.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/lists/main.txt
 
    - name: Commit and Push
      run: |
