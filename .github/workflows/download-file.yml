@@ -1,18 +1,23 @@
-name: Download Filter File
+name: Download file
 on:
- workflow_dispatch:
  schedule:
-  - cron: '0 12 * * 0'
+   - cron: '0 0 * * 0'
+ workflow_dispatch:
+
 jobs:
- download-file:
-  runs-on: ubuntu-latest
-  steps:
-    - name: Download file
-      run: wget -O lists/main.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/lists/main.txt
-    - name: Commit and Push
-      run: |
-        git config --global user.email "<>"
-        git config --global user.name "GitHub-Actions"
-        git add lists
-        git commit -m "Update filter files"
-        git push
+ download_file:
+   runs-on: ubuntu-latest
+   steps:
+   - name: Checkout repository
+     uses: actions/checkout@v3
+
+   - name: Download file
+     run: |
+       mkdir -p lists
+       wget -P lists https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/lists/main.txt
+
+   - name: Commit and push changes
+     uses: stefanzweifel/git-auto-commit-action@v4
+     with:
+       commit_message: Update lists
+       file_pattern: lists/*
