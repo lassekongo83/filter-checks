@@ -9,3 +9,10 @@ jobs:
   steps:
     - name: Download file
       run: curl -L -o lists/main.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/lists/main.txt
+    - name: Commit and Push
+      run: |
+        git config --global user.email "<>"
+        git config --global user.name "GitHub-Actions"
+        git add lists
+        git commit -m "Update filter files"
+        git push
