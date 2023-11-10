@@ -8,7 +8,7 @@ jobs:
   runs-on: ubuntu-latest
   steps:
     - name: Download file
-      run: curl -L -o lists/main.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/lists/main.txt
+      run: wget -O lists/main.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/lists/main.txt
     - name: Commit and Push
       run: |
         git config --global user.email "<>"
