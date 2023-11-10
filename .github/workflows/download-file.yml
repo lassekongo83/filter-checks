@@ -1,0 +1,10 @@
+name: Download Filter File
+on:
+ schedule:
+  - cron: '0 12 * * 0'
+jobs:
+ download-file:
+  runs-on: ubuntu-latest
+  steps:
+    - name: Download file
+      run: curl -L -o lists/main.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/lists/main.txt
