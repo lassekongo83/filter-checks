@@ -16,8 +16,10 @@ jobs:
        mkdir -p lists
        wget -P lists https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/lists/main.txt
 
-   - name: Commit and push changes
-     uses: stefanzweifel/git-auto-commit-action@v4
-     with:
-       commit_message: Update lists
-       file_pattern: lists/*
+   - name: Commit and Push
+     run: |
+       git config --global user.email "<>"
+       git config --global user.name "GitHub-Actions"
+       git add lists
+       git commit -m "Update filter files"
+       git push
