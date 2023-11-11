@@ -52,16 +52,21 @@ with open('logs/domains.txt', 'r') as file:
 
 # Perform DNS lookups in parallel
 with ThreadPoolExecutor(max_workers=100) as executor:
-  results = executor.map(is_domain_active, domains)
+  dns_results = executor.map(is_domain_active, domains)
+
+# Perform WHOIS lookups in parallel
+with ThreadPoolExecutor(max_workers=100) as executor:
+  whois_results = executor.map(get_whois_info, domains)
+
+# Perform HTTP status code checks in parallel
+with ThreadPoolExecutor(max_workers=100) as executor:
+  http_results = executor.map(get_http_status, domains)
 
 # Process the results
-for domain, is_active in zip(domains, results):
- if not is_active:
+for domain, dns_result, whois_result, http_result in zip(domains, dns_results, whois_results, http_results):
+ if not dns_result:
      dns_logger.info(f"{domain} is inactive")
- else:
-     whois_info = get_whois_info(domain)
-     http_status, http_reason = get_http_status(domain)
-     if whois_info is not None:
-         whois_logger.info(f"WHOIS info for {domain}: {whois_info}")
-     if http_status is not None:
-         http_logger.info(f"HTTP status for {domain}: {http_status} {http_reason}")
+ if whois_result is None:
+     whois_logger.info(f"{domain} is inactive")
+ if http_result is None:
+     http_logger.info(f"{domain} is inactive")
