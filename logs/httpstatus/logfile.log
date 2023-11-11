@@ -1,1 +1,99 @@
 
+Error getting HTTP status for applicationinsights.azure.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for adt511.net: [Errno -5] No address associated with hostname
+Error getting HTTP status for aa-cdn.mytaste.org: [Errno -2] Name or service not known
+Error getting HTTP status for asicsverige.com.se: [Errno -2] Name or service not known
+Error getting HTTP status for azurewebsites.net: [Errno -5] No address associated with hostname
+Error getting HTTP status for adt532.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for atmtd.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for biddercore.io: [Errno -5] No address associated with hostname
+Error getting HTTP status for bwz.se: [Errno -5] No address associated with hostname
+Error getting HTTP status for covatic.io: [Errno -5] No address associated with hostname
+Error getting HTTP status for cxpublic.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for consensu.org: [Errno -5] No address associated with hostname
+Error getting HTTP status for caviera-sverige.shop: [Errno -5] No address associated with hostname
+Error getting HTTP status for emg-services.net: [Errno -5] No address associated with hostname
+Error getting HTTP status for eu-north-1.amazonaws.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for etc.nu: [Errno -5] No address associated with hostname
+Error getting HTTP status for execute-api.eu-west-1.amazonaws.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for fathom.wheresmar.co: [Errno -2] Name or service not known
+Error getting HTTP status for episerver.net: [Errno 104] Connection reset by peer
+Error getting HTTP status for guavaaffiliate.blob.core.windows.net: [Errno -2] Name or service not known
+Error getting HTTP status for evt-api.ntm.eu: [Errno 111] Connection refused
+Error getting HTTP status for inevserver.com: [Errno -2] Name or service not known
+Error getting HTTP status for isgprivacy.cbsi.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for jwpcdn.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for kajabi-cdn.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for kaloo.ga: [Errno -2] Name or service not known
+Error getting HTTP status for jst.ai: [Errno -5] No address associated with hostname
+Error getting HTTP status for interactiveads.ai: [Errno 111] Connection refused
+Error getting HTTP status for konzilo.net: [Errno -5] No address associated with hostname
+Error getting HTTP status for k5a.io: [Errno -5] No address associated with hostname
+Error getting HTTP status for kayak.xno.se: [Errno 111] Connection refused
+Error getting HTTP status for look.ufinkln.com: Remote end closed connection without response
+Error getting HTTP status for leadenhancer.com: Remote end closed connection without response
+Error getting HTTP status for ma-track.bonnierpublications.se: Remote end closed connection without response
+Error getting HTTP status for mikz.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for marlin.kumo.at: [Errno -2] Name or service not known
+Error getting HTTP status for monkey.tunnl.com: [Errno -2] Name or service not known
+Error getting HTTP status for optmn.cloud: [Errno -5] No address associated with hostname
+Error getting HTTP status for organicfruitapps.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for pafpartners.com: Remote end closed connection without response
+Error getting HTTP status for privacy-center.org: [Errno -5] No address associated with hostname
+Error getting HTTP status for privacy-mgmt.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for researchonline.se: [Errno -5] No address associated with hostname
+Error getting HTTP status for service.survio.se: [Errno -2] Name or service not known
+Error getting HTTP status for shortcut.se: [Errno -2] Name or service not known
+Error getting HTTP status for s.arclk.net: [Errno -5] No address associated with hostname
+Error getting HTTP status for selectofmychoices.com: [Errno 111] Connection refused
+Error getting HTTP status for se-affiliate-gallery.aws.aller.com: [Errno 111] Connection refused
+Error getting HTTP status for sprinkletxt.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for stackpathcdn.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for statisticplatform.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for static.influencersofsweden.se: [Errno -2] Name or service not known
+Error getting HTTP status for tracking.bonnier.news: [Errno 104] Connection reset by peer
+Error getting HTTP status for topplista24.com: [Errno -2] Name or service not known
+Error getting HTTP status for t.elasticsuite.io: [Errno 111] Connection refused
+Error getting HTTP status for ubembed.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for thepattayanews.se: Remote end closed connection without response
+Error getting HTTP status for ufinkln.com: Remote end closed connection without response
+Error getting HTTP status for valentinosverige.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for video-static.tunnl.com: [Errno -2] Name or service not known
+Error getting HTTP status for webformscr.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for webpushs.com: [Errno -5] No address associated with hostname
+Error getting HTTP status for sch.news: [Errno -3] Temporary failure in name resolution
+Error getting HTTP status for stallet.se: [Errno 104] Connection reset by peer
+Error getting HTTP status for familj.se: [Errno 104] Connection reset by peer
+Error getting HTTP status for asicsisverige.com: [Errno 110] Connection timed out
+Error getting HTTP status for dakine.com.se: [Errno 110] Connection timed out
+Error getting HTTP status for campersverige.com.se: [Errno 110] Connection timed out
+Error getting HTTP status for alphalete.com.se: [Errno 110] Connection timed out
+Error getting HTTP status for barbours.com.se: [Errno 110] Connection timed out
+Error getting HTTP status for championsverige.com.se: [Errno 110] Connection timed out
+Error getting HTTP status for long.interestmoments.com: [Errno 110] Connection timed out
+Error getting HTTP status for matchads.net: [Errno 110] Connection timed out
+Error getting HTTP status for ma.bonnierpublications.se: [Errno 110] Connection timed out
+Error getting HTTP status for marcjacobssverige.com.se: [Errno 110] Connection timed out
+Error getting HTTP status for lwcdn.com: [Errno 110] Connection timed out
+Error getting HTTP status for js.interestmoments.com: [Errno 110] Connection timed out
+Error getting HTTP status for guesssverige.com.se: [Errno 110] Connection timed out
+Error getting HTTP status for mymediaindex.com: [Errno 110] Connection timed out
+Error getting HTTP status for mailmunch.co: [Errno 110] Connection timed out
+Error getting HTTP status for loewe.com.se: [Errno 110] Connection timed out
+Error getting HTTP status for gymsharkswedens.com: [Errno 110] Connection timed out
+Error getting HTTP status for gymshark-sweden.com.se: [Errno 110] Connection timed out
+Error getting HTTP status for konzilo.com: [Errno 101] Network is unreachable
+Error getting HTTP status for sellingsimplified.net: [Errno 110] Connection timed out
+Error getting HTTP status for t.fml.rip: [Errno 110] Connection timed out
+Error getting HTTP status for record.findtrustclicks.com: [Errno 110] Connection timed out
+Error getting HTTP status for tibaco.net: [Errno 110] Connection timed out
+Error getting HTTP status for tourn.se: [Errno 110] Connection timed out
+Error getting HTTP status for truthlyanalytics.com: [Errno 110] Connection timed out
+Error getting HTTP status for stats.helsingborg.se: [Errno 110] Connection timed out
+Error getting HTTP status for palmangelssverige.com.se: [Errno 110] Connection timed out
+Error getting HTTP status for zummycloud.com: [Errno 110] Connection timed out
+Error getting HTTP status for lokus.se: [Errno 104] Connection reset by peer
+Error getting HTTP status for fwmrm.net: [Errno 104] Connection reset by peer
+Error getting HTTP status for portalhc.com: [Errno 110] Connection timed out
+Error getting HTTP status for nasdaqomxnordic.com: [Errno 104] Connection reset by peer
+Error getting HTTP status for tr.apsisforms.com: [Errno 110] Connection timed out
