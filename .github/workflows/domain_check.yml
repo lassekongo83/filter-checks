@@ -20,7 +20,10 @@ jobs:
          python -m pip install --upgrade pip
          pip install python-whois
 
-     - name: Run script
+     - name: Create Domains File
+       run: python tools/extract_domains.py
+
+     - name: Check Domain Status
        run: python tools/check_domain_status.py
 
      - name: Commit and Push
