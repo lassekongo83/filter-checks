@@ -6,7 +6,6 @@
 7an.se
 8sidor.se
 99.teknikveckan.se
-aa-cdn.mytaste.org
 ab.fastighetsvarlden.se
 accentmagasin.se
 accesslnk.com
@@ -22,8 +21,6 @@ adfenix.com
 adhype.se
 adonsales.com
 adonstudio.com
-adt511.net
-adt532.com
 adviral.s3.amazonaws.com
 advisa.se
 advisible.com
@@ -66,7 +63,6 @@ alltomnorrtalje.se
 alltomsallskapsspel.se
 alphalete.com.se
 alpresor.se
-altrasverige.com.se
 amazonaws.com
 analytics.barnebys.sh
 analytics.gen.shield.monitoringservice.co
@@ -92,7 +88,6 @@ arkitektur.se
 ascontentcloud.com
 aservice.tools
 asicsisverige.com
-asicsverige.com.se
 assets.pinterest.com
 assets.tumblr.com
 assets.voyado.com
@@ -217,7 +212,6 @@ cdn.livechatinc.com
 cdn.svenskalag.se
 centotag.io
 cervera.se
-chaco.com.se
 championsverige.com.se
 chef.se
 chefstidningen.se
@@ -237,7 +231,6 @@ connect.facebook.net
 connect.nosto.com
 connectio.s3.amazonaws.com
 conpot.se
-consensu.org
 consent.podplay.com
 consentframework.com
 consentmanager.net
@@ -398,7 +391,6 @@ fastighetstidningen.se
 fasting.nu
 fastout.com
 fasttrack.webstream.dk
-fathom.wheresmar.co
 feber.se
 feed.meltwater.com
 feed.mikle.com
@@ -511,7 +503,6 @@ grillbaronen.se
 grillbloggen.nu
 gstatic.com
 gtm.findroommate.dk
-guavaaffiliate.blob.core.windows.net
 guesssverige.com.se
 guldkanalen.se
 gym-shark-sverige.com.se
@@ -593,7 +584,6 @@ inblick.se
 inboxads.com
 indien.nu
 industrinyheter.se
-inevserver.com
 influens.se
 ingenjorsjobb.se
 inkopsradet.se
@@ -639,7 +629,6 @@ jwplayer.com
 k5a.io
 kajabi-cdn.com
 kalender.se
-kaloo.ga
 kamrat.com
 kardemummagumman.se
 karinhaglund.se
@@ -774,7 +763,6 @@ maringuiden.se
 marketinghub.zoho.com
 marketo.com
 marknadsguiden.nu
-marlin.kumo.at
 marmotsverige.com.se
 marsta.nu
 masture.mobi
@@ -829,7 +817,6 @@ modette.se
 mogenromantik.com
 momondo.se
 monasuniversum.se
-monkey.tunnl.com
 morningstar.se
 morotsliv.com
 motivation.se
@@ -1026,6 +1013,7 @@ routy.app
 royapp.com
 rpofsweden.com
 runnersworld.se
+runningshoessverige.com
 runtnc.net
 s.arclk.net
 sa.svenskalag.se
@@ -1039,7 +1027,6 @@ sannsyn.com
 sbktavling.se
 scanaktier.se
 scandicpartners.se
-sch.news
 schack.se
 schibsted.com
 schoolido.se
@@ -1062,7 +1049,6 @@ seonify.com
 serenitycandles.com.se
 servg1.net
 service.force.com
-service.survio.se
 sexapp.me
 sexpacket.se
 shareaholic.com
@@ -1133,7 +1119,6 @@ stallet.se
 startaochdriva.se
 stat.modette.se
 static.hupso.com
-static.influencersofsweden.se
 statisticplatform.com
 stats.blogg.se
 stats.docu.info
@@ -1219,7 +1204,6 @@ tittapavideon.se
 tools.se
 top100ruokablogit.com
 topblogarea.se
-topplista24.com
 toppmarkensverige.com
 totallyorebro.se
 tourn.co
@@ -1297,7 +1281,6 @@ vi.se
 viadata.store
 viagogo.se
 vibilagare.se
-video-static.tunnl.com
 viforetag.se
 viivilla.se
 vilaser.se
