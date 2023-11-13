@@ -18,6 +18,7 @@ jobs:
      run: |
        mkdir -p lists
        wget -O lists/main.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/lists/main.txt
+       wget -O lists/main-hosts.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/lists/main-hosts.txt
 
    - name: Commit and Push
      run: |
