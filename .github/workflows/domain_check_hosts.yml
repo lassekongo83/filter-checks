@@ -1,0 +1,32 @@
+name: Run Hosts Domain Check Script
+
+on:
+ schedule:
+  - cron: '0 1 * * 0'
+ workflow_dispatch:
+
+permissions:
+ contents: write
+
+jobs:
+ run-script:
+   runs-on: ubuntu-latest
+   steps:
+     - name: Checkout code
+       uses: actions/checkout@v3
+
+     - name: Set up Python
+       uses: actions/setup-python@v3
+       with:
+         python-version: 3.11
+
+     - name: Check Domain Status
+       run: python tools/check_domain_status_hosts.py
+
+     - name: Commit and Push
+       run: |
+         git config --global user.email "<>"
+         git config --global user.name "GitHub-Actions"
+         git add logs
+         git commit -m "Update logs"
+         git push
