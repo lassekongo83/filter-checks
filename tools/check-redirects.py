@@ -14,7 +14,7 @@ with open('logs/domains.txt', 'r') as file:
 def check_redirect(domain):
  url = domain.strip()
  if not url.startswith('http://') and not url.startswith('https://'):
- url = 'https://' + url
+ url = 'http://' + url
  try:
  response = requests.get(url, timeout=10)
  if response.url != url:
