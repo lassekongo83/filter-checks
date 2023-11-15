@@ -22,7 +22,7 @@ def check_redirect(domain):
       initial_domain = urlparse(url).netloc
       final_domain = urlparse(response.url).netloc
       # Check if the domain names are different and if the final domain is not the same as the initial domain (ignoring www)
-      if initial_domain != final_domain and not final_domain.startswith(f'www.{initial_domain}'):
+      if initial_domain != final_domain and not final_domain.startswith(f'www.{initial_domain}') and not final_domain.endswith(':443/'):
           logging.info(f"{url} redirects to {response.url}")
  except requests.exceptions.Timeout:
   logging.info(f"{url} did not respond within the timeout period")
