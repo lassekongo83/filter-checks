@@ -1,0 +1,37 @@
+name: Check redirects
+
+on:
+ schedule:
+  - cron: '0 3 1 * *'
+ workflow_dispatch:
+
+permissions:
+ contents: write
+
+jobs:
+ run-script:
+   runs-on: ubuntu-latest
+   steps:
+     - name: Checkout code
+       uses: actions/checkout@v3
+
+     - name: Set up Python
+       uses: actions/setup-python@v3
+       with:
+         python-version: 3.8
+
+     - name: Install dependencies
+       run: |
+         python -m pip install --upgrade pip
+         pip install requests
+
+     - name: Check Domain Redirects
+       run: python tools/check-redirects.py
+
+     - name: Commit and Push
+       run: |
+         git config --global user.email "<>"
+         git config --global user.name "GitHub-Actions"
+         git add logs
+         git commit -m "Update logs"
+         git push
