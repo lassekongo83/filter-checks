@@ -14,14 +14,18 @@ with open('logs/domains.txt', 'r') as file:
 def check_redirect(domain):
  url = domain.strip()
  if not url.startswith('http://') and not url.startswith('https://'):
-  url = 'http://' + url
- response = requests.get(url)
+ url = 'https://' + url
+ try:
+ response = requests.get(url, timeout=10)
  if response.url != url:
-  # Parse the URLs and compare the domain names
-  initial_domain = urlparse(url).netloc
-  final_domain = urlparse(response.url).netloc
-  if initial_domain != final_domain:
-      logging.info(f"{url} redirects to {response.url}")
+ # Parse the URLs and compare the domain names
+ initial_domain = urlparse(url).netloc
+ final_domain = urlparse(response.url).netloc
+ # Check if the domain names are different
+ if initial_domain != final_domain:
+     logging.info(f"{url} redirects to {response.url}")
+ except requests.exceptions.Timeout:
+ logging.info(f"{url} did not respond within the timeout period")
 
 # Use ThreadPoolExecutor to run the function in parallel
 with ThreadPoolExecutor(max_workers=100) as executor:
