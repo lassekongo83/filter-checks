@@ -1,143 +1,81 @@
 INFO:root:http://accesslnk.com redirects to http://ww1.accesslnk.com
-INFO:root:http://api.netb11.com redirects to http://ww16.api.netb11.com/?sub1=20231116-1553-5296-a89d-6632124a4076
+INFO:root:http://api.netb11.com redirects to http://ww25.api.netb11.com/?subid1=20231201-1410-021f-a24b-d716b99a3911
 INFO:root:http://amazonaws.com redirects to https://aws.amazon.com/
-INFO:root:http://apis.google.com redirects to https://developers.google.com/
 INFO:root:http://btikon.se redirects to http://ww82.btikon.se/
-INFO:root:http://bellmetric.net redirects to https://bmetric.com/
-INFO:root:http://bilweb.se redirects to https://bilweb.se:443/
-INFO:root:http://bongeo.bnu.bn.nr redirects to https://bongeo.bnu.bn.nr:443/
-INFO:root:http://apsis.one redirects to https://app.apsis.one/index.html
-INFO:root:http://bulletin.nu redirects to https://bulletin.nu:443/
-INFO:root:http://borssnack.di.se redirects to https://borssnack.di.se:443/
-INFO:root:http://bravenewbusiness.se redirects to https://www.svarvning.nu/brave-new-business/?ref=bnb
-INFO:root:http://blogglisten.no redirects to https://support.blogg.no/blogglisten.html
-INFO:root:http://apprl.com redirects to https://creator.klarna.com/
-INFO:root:http://activate.social redirects to https://try.activate.social
-INFO:root:http://bicycling.se redirects to https://www.bicycling.com/
-INFO:root:http://churnkit.com redirects to https://www.hugedomains.com/domain_profile.cfm?d=churnkit.com
+INFO:root:http://bulletproof-analytics.com redirects to http://ww62.bulletproof-analytics.com/
 INFO:root:http://asicsisverige.com did not respond within the timeout period
-INFO:root:http://activehosted.com redirects to https://www.activecampaign.com/
 INFO:root:http://alphalete.com.se did not respond within the timeout period
 INFO:root:http://barbours.com.se did not respond within the timeout period
+INFO:root:http://apprl.com redirects to https://creator.klarna.com/
+INFO:root:http://apsis.one redirects to https://app.apsis.one/index.html
 INFO:root:http://ck.page redirects to https://convertkit.com/features/landing-pages
-INFO:root:http://careerbuilder.se redirects to https://jobbguru.se/?cbRecursionCnt=1
-INFO:root:http://collect.breakit.se redirects to https://collect.breakit.se:443/
-INFO:root:http://curemedia.se redirects to https://www.curemedia.com/
-INFO:root:http://bildobubbla.se did not respond within the timeout period
-INFO:root:http://connect.facebook.net redirects to https://www.facebook.com/
-INFO:root:http://connect.nosto.com redirects to https://my.nosto.com/auth/login
-INFO:root:http://events.forzasys.com redirects to https://events.forzasys.com:443/
-INFO:root:http://easyweb.se redirects to https://www.easyweb.site
+INFO:root:http://bellmetric.net redirects to https://bmetric.com/
 INFO:root:http://campersverige.com.se did not respond within the timeout period
-INFO:root:http://campingsverige.se did not respond within the timeout period
-INFO:root:http://exitintel.com redirects to https://exitintelligence.com
-INFO:root:http://fastout.com redirects to https://www.fastout.se
 INFO:root:http://championsverige.com.se did not respond within the timeout period
-INFO:root:http://deals.innocode.no redirects to https://dash.deals.innocode.no
-INFO:root:http://driftt.com redirects to https://www.drift.com/
-INFO:root:http://external.reseguiden.se redirects to https://www.reseguiden.se/
-INFO:root:http://findit.se redirects to https://findit.se:443/
+INFO:root:http://curemedia.se redirects to https://www.curemedia.com/
 INFO:root:http://dakine.com.se did not respond within the timeout period
+INFO:root:http://easyweb.se redirects to https://www.easyweb.site
+INFO:root:http://connect.nosto.com redirects to https://my.nosto.com/auth/login
+INFO:root:http://connect.facebook.net redirects to https://www.facebook.com/
+INFO:root:http://fastout.com redirects to https://www.fastout.se
+INFO:root:http://external.reseguiden.se redirects to https://www.reseguiden.se/
+INFO:root:http://fnulan.se redirects to https://fnulan.femina.se
+INFO:root:http://driftt.com redirects to https://www.drift.com/
 INFO:root:http://evidon.com redirects to https://www.crownpeak.com/products/privacy-and-consent-management/
 INFO:root:http://fakturino.se redirects to https://krea.se/foretagslan/
-INFO:root:http://gamedistribution.com redirects to https://gamedistribution.com:443/
-INFO:root:http://getsitecontrol.com redirects to https://getsitecontrol.com:443/
-INFO:root:http://forms.hsforms.com redirects to https://developers.hubspot.com/
-INFO:root:http://familj.se did not respond within the timeout period
-INFO:root:http://hifitorget.se redirects to https://hifitorget.se:443/
-INFO:root:http://helgon.se redirects to https://beta.helgon.se
-INFO:root:http://hittahem.se redirects to https://hittahem.se:443/
-INFO:root:http://greatstoryvideo.se redirects to https://futuremediagroup.com/
-INFO:root:http://imgix.net redirects to https://imgix.com/
-INFO:root:http://keenstockholm.com.se redirects to http://ww1.keenstockholm.com.se
-INFO:root:http://footjoygolfskorrea.com.se did not respond within the timeout period
-INFO:root:http://google-analytics.com redirects to https://marketingplatform.google.com/about/analytics/
 INFO:root:http://fwmrm.net did not respond within the timeout period
-INFO:root:http://guesssverige.com.se did not respond within the timeout period
+INFO:root:http://gym-sharksweden.com did not respond within the timeout period
 INFO:root:http://gymshark-sweden.com.se did not respond within the timeout period
-INFO:root:http://look.utndln.com redirects to http://ww7.utndln.com/
-INFO:root:http://gymsharkswedens.com did not respond within the timeout period
+INFO:root:http://helgon.se redirects to https://beta.helgon.se
+INFO:root:http://keenstockholm.com.se redirects to http://ww1.keenstockholm.com.se
 INFO:root:http://elgiganten.se did not respond within the timeout period
-INFO:root:http://lawline.se redirects to https://lawline.se:443/
+INFO:root:http://imgix.net redirects to https://imgix.com/
+INFO:root:http://glitnoraffiliates.com did not respond within the timeout period
+INFO:root:http://greatstoryvideo.se redirects to https://futuremediagroup.com/
+INFO:root:http://look.utndln.com redirects to http://ww7.utndln.com/?usid=19&utid=18068505963
 INFO:root:http://insplanet.com redirects to https://www.zmarta.se/forsakring
 INFO:root:http://hapyak.com redirects to https://www.brightcove.com/en/products/interactivity/
-INFO:root:http://isabellalowengrip.se redirects to https://damernasvarld.expressen.se/blogg/isabellalowengrip/
-INFO:root:http://lasso.link redirects to https://getlasso.co/
-INFO:root:http://manatee.dk redirects to https://www.manatee.io/
-INFO:root:http://js.interestmoments.com did not respond within the timeout period
-INFO:root:http://minbostad.se redirects to https://www.minuc.se/minbostad
-INFO:root:http://metapic.se redirects to https://metapic.com
-INFO:root:http://mtpc.se redirects to https://metapic.com
-INFO:root:http://instiengage.com did not respond within the timeout period
-INFO:root:http://marketinghub.zoho.com redirects to https://ma.zoho.com/
-INFO:root:http://newstats.blogg.se redirects to https://newstats.blogg.se:443/
-INFO:root:http://marknadsguiden.nu redirects to https://marknadsguiden.barometern.se/
-INFO:root:http://norrbotten.com redirects to https://gratistidning.com.hemsida.eu/business/
-INFO:root:http://privacymanager.io redirects to http://liveramp.com/
 INFO:root:http://loewe.com.se did not respond within the timeout period
-INFO:root:http://long.interestmoments.com did not respond within the timeout period
-INFO:root:http://obj.fotosidan.se redirects to https://www.fotosidan.se/upload/fullpagead/
-INFO:root:http://lokus.se did not respond within the timeout period
-INFO:root:http://plowking.mecenat.com redirects to https://plowking.mecenat.com:443/
+INFO:root:http://manatee.dk redirects to https://www.manatee.io/
 INFO:root:http://lwcdn.com did not respond within the timeout period
-INFO:root:http://ma.bonnierpublications.se did not respond within the timeout period
 INFO:root:http://mailmunch.co did not respond within the timeout period
-INFO:root:http://mediacreeper.se redirects to https://mediacreeper.com/index
 INFO:root:http://matchads.net did not respond within the timeout period
 INFO:root:http://libring.com did not respond within the timeout period
-INFO:root:http://runtnc.net redirects to http://ww1.runtnc.net
-INFO:root:http://prod.uidapi.com redirects to https://prod.uidapi.com:443/
-INFO:root:http://nichehuset.dk redirects to https://www.altinget.dk/annoncer
-INFO:root:http://prismic.io redirects to https://prismic.io:443/
-INFO:root:http://rabble-res.cloudinary.com redirects to https://cloudinary.com
-INFO:root:http://proff.se redirects to https://proff.se:443/
-INFO:root:http://pt.dwcdn.net redirects to https://www.datawrapper.de
-INFO:root:http://sexapp.me redirects to http://ww38.sexapp.me/
-INFO:root:http://monasuniversum.se redirects to https://www.expressen.se/amelia/blogg/monasuniversum/
-INFO:root:http://res.se redirects to https://res.se:443/
 INFO:root:http://mymediaindex.com did not respond within the timeout period
-INFO:root:http://rekai.se redirects to https://rek.ai/sv
-INFO:root:http://player.vimeo.com redirects to https://vimeo.com/features
-INFO:root:http://marketo.com did not respond within the timeout period
+INFO:root:http://privacymanager.io redirects to http://liveramp.com/
 INFO:root:http://nasdaqomxnordic.com did not respond within the timeout period
-INFO:root:http://redeal.se redirects to https://www.redeal.io
-INFO:root:http://prisguide.no redirects to https://www.klarna.com/no/
-INFO:root:http://pji.nu redirects to https://www.prisjakt.nu/misc/url_expand.php?u=&redirect=classic
-INFO:root:http://paulas.me redirects to https://www.expressen.se/amelia/blogg/paulas/
-INFO:root:http://proxyas.com redirects to https://www.proxy.toys/
-INFO:root:http://shareaholic.net redirects to https://www.shareaholic.com/
-INFO:root:http://seenthis.se redirects to https://seenthis.co:443/
-INFO:root:http://raygun.io redirects to https://raygun.com:443/
-INFO:root:http://pushcrew.com redirects to https://vwo.com/engage/?ref=pc
-INFO:root:http://shortcut.se redirects to https://shortcut.se:443/
+INFO:root:http://marketinghub.zoho.com redirects to https://ma.zoho.com/
+INFO:root:http://marketo.com did not respond within the timeout period
+INFO:root:http://obj.fotosidan.se redirects to https://www.fotosidan.se/upload/fullpagead/
+INFO:root:http://runtnc.net redirects to http://ww1.runtnc.net
 INFO:root:http://palmangelssverige.com.se did not respond within the timeout period
-INFO:root:http://pipedrive.com did not respond within the timeout period
-INFO:root:http://rpofsweden.com redirects to https://rpofsweden.se/
-INFO:root:http://salesiq.zoho.com redirects to https://www.zoho.com/salesiq/
-INFO:root:http://service.force.com redirects to https://login.salesforce.com
-INFO:root:http://push-notifications.top redirects to https://www.google.com/
-INFO:root:http://record.findtrustclicks.com did not respond within the timeout period
+INFO:root:http://sexapp.me redirects to http://ww38.sexapp.me/
+INFO:root:http://pt.dwcdn.net redirects to https://www.datawrapper.de
+INFO:root:http://rekai.se redirects to https://rek.ai/sv
+INFO:root:http://mediacreeper.se redirects to https://mediacreeper.com/index
+INFO:root:http://prisguide.no redirects to https://www.klarna.com/no/
+INFO:root:http://proxyas.com redirects to https://www.proxy.toys/
 INFO:root:http://sellingsimplified.net did not respond within the timeout period
-INFO:root:http://tourn.co redirects to https://tourn.com/
-INFO:root:http://trafikradion.se redirects to https://www.trafikradion.com/
-INFO:root:http://sitegainer.com redirects to https://symplify.com/conversion-experimentation/
-INFO:root:http://widget.playoncenter.com redirects to http://www.playoncenter.com/admin/login
-INFO:root:http://walls.io redirects to https://walls.io:443/
-INFO:root:http://stats.helsingborg.se did not respond within the timeout period
-INFO:root:http://webpower.eu redirects to https://www.tripolis.com/webpower
-INFO:root:http://vaningen.se redirects to https://croisette.se/
-INFO:root:http://youbora.com redirects to https://suite.npaw.com/
-INFO:root:http://stats.proff.se redirects to https://login.microsoftonline.com/7b56e7fe-ca45-43ab-9708-7041a75125d9/oauth2/authorize?response_type=code&client_id=52125f95-f8de-4837-a583-b66debd9c61b&scope=openid%20email%20profile&state=OafX6N1nX4Dh1pizsM-2b4ixj1dE4y4gn7YaUfCBBUo%3D&redirect_uri=https://stats.proff.se/oauth2/authorization/enento&nonce=XfMrthae0OHgTMFtWdV40TSwU7cz2qlq_T6jZ-fP4xM
-INFO:root:http://wishpond.net redirects to https://www.wishpond.com/
-INFO:root:http://widgets.getpocket.com redirects to https://getpocket.com/publisher/
-INFO:root:http://zummy.io redirects to https://zummydirect.com/
-INFO:root:http://t.fml.rip did not respond within the timeout period
+INFO:root:http://shareaholic.net redirects to https://www.shareaholic.com/
 INFO:root:http://portalhc.com did not respond within the timeout period
+INFO:root:http://sociuslive.com redirects to https://socius.co
+INFO:root:http://salesiq.zoho.com redirects to https://www.zoho.com/salesiq/
+INFO:root:http://stats.helsingborg.se did not respond within the timeout period
+INFO:root:http://service.force.com redirects to https://login.salesforce.com
+INFO:root:http://svampguiden.com did not respond within the timeout period
+INFO:root:http://t.fml.rip did not respond within the timeout period
 INFO:root:http://tibaco.net did not respond within the timeout period
+INFO:root:http://widget.playoncenter.com redirects to http://www.playoncenter.com/admin/login
 INFO:root:http://tourn.se did not respond within the timeout period
 INFO:root:http://truthlyanalytics.com did not respond within the timeout period
 INFO:root:http://userneeds.com did not respond within the timeout period
+INFO:root:http://webpower.eu redirects to https://www.tripolis.com/webpower
+INFO:root:http://youbora.com redirects to https://suite.npaw.com/
+INFO:root:http://stats.proff.se redirects to https://login.microsoftonline.com/7b56e7fe-ca45-43ab-9708-7041a75125d9/oauth2/authorize?response_type=code&client_id=52125f95-f8de-4837-a583-b66debd9c61b&scope=openid%20email%20profile&state=fvObvu-4JgKTICcrh8giMUgM1IXzqcJx4w8WKuYiUXI%3D&redirect_uri=https://stats.proff.se/oauth2/authorization/enento&nonce=PI76-32yv4JE6p_avcw-IKPBELRdAb56QsRVtpcbGuY
 INFO:root:http://visitlulea.se did not respond within the timeout period
+INFO:root:http://zummy.io redirects to https://zummydirect.com/
+INFO:root:http://wishpond.net redirects to https://www.wishpond.com/
+INFO:root:http://widgets.getpocket.com redirects to https://getpocket.com/publisher/
 INFO:root:http://zummycloud.com did not respond within the timeout period
 INFO:root:http://tripadvisor.se did not respond within the timeout period
 INFO:root:http://tr.apsisforms.com did not respond within the timeout period
