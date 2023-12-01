@@ -19,6 +19,7 @@ adecco.se
 adeprimo.se
 adfenix.com
 adhype.se
+adnordics.com
 adonsales.com
 adonstudio.com
 adviral.s3.amazonaws.com
@@ -127,7 +128,6 @@ bestchampagne.se
 bettingstugan.se
 bettips.se
 biblioteksforeningen.se
-bicycling.se
 biddercore.io
 bildobubbla.se
 bilresaieuropa.se
@@ -140,7 +140,6 @@ birthday.se
 bjuvsweek.se
 blocket.se
 blogg.se
-blogglisten.no
 bloggplatsen.se
 bloggportalen.se
 bloglovin.com
@@ -163,7 +162,6 @@ brafiler.se
 brandy.bonniernewslifestyle.se
 branschkoll.se
 branschstegen.se
-bravenewbusiness.se
 breakit.se
 brinkenbakar.se
 brollopstorget.se
@@ -195,7 +193,6 @@ camping.se
 campingsverige.se
 cannabis.se
 cannabisifokus.se
-careerbuilder.se
 cargodisplayads.com
 carneoam.com
 cartoonnetwork.se
@@ -215,13 +212,12 @@ cervera.se
 championsverige.com.se
 chef.se
 chefstidningen.se
-churnkit.com
 cineasten.se
 cision.com
-citygate.se
 ck.page
 cmp.radioplay.se
 cms.catena.media
+cncpt-central.com
 cncpt.dk
 cncptx.com
 collect.breakit.se
@@ -241,6 +237,7 @@ convertful.com
 convertkit.com
 conviva.com
 cookaholic.se
+cookie-script.com
 cookiebot.com
 cookiehub.net
 cookieinformation.com
@@ -371,6 +368,7 @@ evtr.nordiskemedier.dk
 execute-api.eu-west-1.amazonaws.com
 existenz.se
 exitintel.com
+expekt.se
 expo.se
 expressen.se
 extellio.com
@@ -378,7 +376,6 @@ external.reseguiden.se
 extrakt.se
 facebook.com
 fakturino.se
-familj.se
 familjehemsbanken.se
 familjeliv.se
 familjesidan.se
@@ -402,6 +399,7 @@ fila.com.se
 filatelisten.se
 filecr.com
 files.cdn.spilcloud.com
+filmparadiset.se
 filmtipset.se
 filmtopp.se
 finansliv.se
@@ -419,6 +417,7 @@ flirtmatch.se
 flm.nu
 flygtorget.se
 fn.se
+fnulan.se
 fodertipset.se
 fof.se
 fokus.se
@@ -506,8 +505,8 @@ gtm.findroommate.dk
 guesssverige.com.se
 guldkanalen.se
 gym-shark-sverige.com.se
+gym-sharksweden.com
 gymshark-sweden.com.se
-gymsharkswedens.com
 gynning.net
 hajper.com
 hallakonsument.se
@@ -602,7 +601,6 @@ internetmedicin.se
 investerarbrevet.se
 iphonecasinon.com
 ipo.se
-isabellalowengrip.se
 isgprivacy.cbsi.com
 it-finans.se
 itseniorerna.se
@@ -617,6 +615,8 @@ jarnvagar.nu
 javligtgott.se
 jobb.blocket.se
 jobba-hemifran.com
+jobsinsweden.se
+jobtip.se
 js.createsend1.com
 js.driftt.com
 js.hs-banner.com
@@ -716,6 +716,7 @@ livinguppsala.se
 livsmedelsverket.se
 livsstil.se
 ljudochbild.se
+ljudoljus.net
 ljungbysporten.se
 ljuskultur.se
 loewe.com.se
@@ -724,8 +725,6 @@ lokalguiden.se
 lokalnytt.se
 lokalsport.nu
 lokalti.se
-lokus.se
-long.interestmoments.com
 longchampstockholm.com.se
 look.ufinkln.com
 look.utndln.com
@@ -745,6 +744,7 @@ ma-track.bonnierpublications.se
 ma.bonnierpublications.se
 maaw.io
 macken.xyz
+magasinetkonkret.se
 magasinetparagraf.se
 magasink.se
 mailchimp.com
@@ -762,7 +762,6 @@ marfeelcache.com
 maringuiden.se
 marketinghub.zoho.com
 marketo.com
-marknadsguiden.nu
 marmotsverige.com.se
 marsta.nu
 masture.mobi
@@ -799,7 +798,6 @@ mikz.com
 milansverige.se
 miljomagasinet.se
 miljomat.se
-minbostad.se
 mindreskatt.se
 minhembio.com
 minimalisterna.se
@@ -816,7 +814,6 @@ modernalivet.se
 modette.se
 mogenromantik.com
 momondo.se
-monasuniversum.se
 morningstar.se
 morotsliv.com
 motivation.se
@@ -861,7 +858,6 @@ nordiskemedier.dk
 nordiskradio.se
 nordiskskog.se
 norrahalland.se
-norrbotten.com
 norstatsurveys.com
 notebookcheck.se
 notedmedia.se
@@ -908,7 +904,6 @@ padelfeber.se
 pafpartners.com
 palmangelssverige.com.se
 passagen.se
-paulas.me
 pbswisstools.com
 pcf.tdscd.com
 peertube.se
@@ -959,7 +954,6 @@ prvcy.vkmedia.se
 prylguiden.expressen.se
 pt.dwcdn.net
 ptm.flowplayer.com
-push-notifications.top
 pushcrew.com
 pusher.com
 pushnice.com
@@ -973,6 +967,7 @@ quizza.nu
 qx.se
 rabble-res.cloudinary.com
 radio.se
+ramses.nu
 ratsit.se
 ravarumarknaden.se
 raygun.io
@@ -982,7 +977,6 @@ recept.se
 recepten.se
 recirculation.spot.im
 reco.se
-record.findtrustclicks.com
 reddit.com
 redeal.se
 referralhero.com
@@ -1123,6 +1117,7 @@ statisticplatform.com
 stats.blogg.se
 stats.docu.info
 stats.easyweb.se
+stats.ehandel.se
 stats.helsingborg.se
 stats.jibber.social
 stats.playoncenter.com
@@ -1215,7 +1210,6 @@ tracking.bonnier.news
 tracking.fasab6f.se
 tradera.com
 trafikradion.com
-trafikradion.se
 traning40plus.se
 travellink.se
 travelnews.se
@@ -1258,7 +1252,6 @@ vackertvader.se
 vagabond.se
 valentinosverige.com
 vandringsguiden.se
-vaningen.se
 varden.se
 varldenidag.se
 varldenshaftigaste.se
@@ -1275,7 +1268,6 @@ vejaskorstockholm.com.se
 vejasskor.com
 verktyg.internetmedicin.se
 veterinarmagazinet.se
-vev.design
 vf.se
 vi.se
 viadata.store
@@ -1300,6 +1292,7 @@ voister.se
 voodoofilm.org
 vovve.net
 walls.io
+wayke.se
 wct-1.com
 wct-2.com
 webb-tv.nu
