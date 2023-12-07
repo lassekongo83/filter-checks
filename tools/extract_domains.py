@@ -2,11 +2,11 @@ import os
 import re
 from collections import OrderedDict
 
-INPUT_FILE = '../lists/main.txt'
-OUTPUT = 'domains.txt'
+INPUT_FILE = 'lists/main.txt'
+OUTPUT = 'logs/domains.txt'
 
 with open(INPUT_FILE, 'r') as f:
- lines = f.readlines()
+  lines = f.readlines()
 
 cosmetic_filters = [re.sub(r'#.*', '', line) for line in lines if '##' in line]
 domain_specific = [re.sub(r'.*domain=', '', line) for line in lines if 'domain=' in line]
