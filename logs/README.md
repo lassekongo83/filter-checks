@@ -17,4 +17,8 @@ These are log files created by GitHub Actions once per week.
     <td>inactive_domains_hosts.log</td>
     <td>The same as above, but just for the hosts file <a href="https://github.com/lassekongo83/filter-checks/blob/main/lists/main-hosts.txt">lists/main-hosts.txt</a></td>
   </tr>
+  <tr>
+    <td>redirects.log</td>
+    <td>Checks the main filter list for domains that redirects to other domains. Useful when you need to know if a larger website has changed name etc.</a></td>
+  </tr>
 </table>
