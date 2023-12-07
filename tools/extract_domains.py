@@ -15,12 +15,13 @@ lines = cosmetic_filters + domain_specific + domain_from_filters
 lines = [line.strip() for line in lines if line.strip()]
 lines = [line for line in lines if not any(c in line for c in '*')]
 lines = [line.replace('~', '') for line in lines]
-lines = [line.split('$')[0] for line in lines] # Remove everything after $
-lines = [line.split('|')[0] for line in lines] # Remove everything after |
-lines = [line.split(',')[0] for line in lines] # Remove everything after ,
 lines = [line for line in lines if line.endswith(tuple('abcdefghijklmnopqrstuvwxyz'))] # Remove lines that end with any character other than a-z
-lines = sorted(set(lines), key=lines.index)
-lines = sorted(lines)
 
+with open(OUTPUT, 'r') as f:
+  lines = f.readlines()
+  lines = sorted(set(lines), key=lines.index)
+  lines = sorted(lines)
 with open(OUTPUT, 'w') as f:
-  f.writelines(line + '\n' for line in lines)
+  for line in lines:
+    if ',' not in line and '|' not in line:
+      f.write(line)
