@@ -1,4 +1,4 @@
-A python tool to check if various CSS selectors are inactive on a website.
+A python tool to check if various CSS selectors are active OR not found on a website.
 
 Requires `beautifulsoup4` and `requests` python libraries.
 
@@ -6,6 +6,6 @@ Requires `beautifulsoup4` and `requests` python libraries.
 - Debian: `apt install python3-bs4 python3-requests`
 - Other: `pip install requests beautifulsoup4`
 
-Run with: `python css-check.py --site https://example.com --css ".class1,#id1,div[class="class2"],[class*="class3"]"`
+Run with: `python css-check.py --site https://example.com --css ".class,#id"`
 
-Any CSS selectors you want to check for must be separated by commas.
+Any CSS selectors you want to check must be separated by commas.
