@@ -1,68 +1,47 @@
-import sys
 import requests
-import getopt
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+import argparse
+import re
 
-def check_css_selectors(url, selectors):
+def check_css(url, css):
+  # Send a GET request to the website
   response = requests.get(url)
-  soup = BeautifulSoup(response.text, 'html.parser')
-  not_found_selectors = []
 
-  selectors = selectors.split(',') # Split the css string into a list of selectors
+  # Parse the HTML content of the page with BeautifulSoup
+  soup = BeautifulSoup(response.content, 'html.parser')
 
-  for selector in selectors:
-    if selector.startswith('['): # Check if the selector is an attribute selector
-      tag, attr = selector.split('[')[0], selector.split('[')[1].replace(']', '')
-      attr_parts = attr.split('*')
-      if len(attr_parts) == 2: # Handle * selector
-        elements = soup.find_all(tag, attrs={attr_parts[0]: lambda x: x and attr_parts[1] in x})
-      elif len(attr_parts) == 3: # Handle ^ and $ selectors
-        start, end = attr_parts[0], attr_parts[2]
-        elements = soup.find_all(tag, attrs={attr_parts[0]: lambda x: x and (x.startswith(start) if end == '$' else x.endswith(end))})
-    else:
-      elements = soup.find_all(selector)
-      
-    if not elements:
-      not_found_selectors.append(selector)
+  # Extract all link and style tags
+  tags = soup.find_all(['link', 'style'])
 
-  # Check CSS files
-  css_links = soup.find_all('link', {'rel': 'stylesheet'})
-  for link in css_links:
-    css_url = link.get('href')
-    if not css_url.startswith('https'):
-      css_url = urljoin(url, css_url)
-      css_response = requests.get(css_url)
-      css_content = css_response.text
-    for selector in selectors:
-      if selector in css_content:
-        not_found_selectors.remove(selector)
+  # List to store the CSS selectors that are found
+  found_selectors = []
 
-  if not_found_selectors:
-    print('Selectors NOT found in the website:')
-    for selector in not_found_selectors:
-      print(f'{selector}')
+  # Check each tag for the presence of the CSS selectors
+  for tag in tags:
+    if tag.text:
+      text = tag.text
+      for selector in css:
+        if selector in text:
+          # Add the selector to the list of found selectors
+          found_selectors.append(selector)
 
-def main():
-  try:
-    opts, _ = getopt.getopt(sys.argv[1:], '', ['site=', 'css='])
-  except getopt.GetoptError:
-    print('Invalid argument')
-    sys.exit(2)
+  # Print the found selectors
+  for selector in found_selectors:
+    print(f"Found CSS selector {selector}")
 
-  site = None
-  css = None
-  for opt, arg in opts:
-    if opt == '--site':
-      site = arg
-    elif opt == '--css':
-      css = arg # Pass css as a single string
+  # Print the selectors that were not found
+  for selector in css:
+    if selector not in found_selectors:
+      print(f"CSS selector {selector} not found.")
 
-  if site and css:
-    check_css_selectors(site, css)
-  else:
-    print('Missing arguments')
-    sys.exit(2)
+  # Return whether any selectors were found
+  return len(found_selectors) > 0
 
 if __name__ == "__main__":
-  main()
+  parser = argparse.ArgumentParser()
+  parser.add_argument("--site", type=str, required=True)
+  parser.add_argument("--css", type=str, required=True)
+  args = parser.parse_args()
+
+  css = args.css.split(',')
+  check_css(args.site, css)
