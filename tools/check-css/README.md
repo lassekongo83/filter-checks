@@ -1,4 +1,4 @@
-A python tool to check if any CSS rule is inactive on a website.
+A python tool to check if any CSS selector is inactive on a website.
 
 Requires `beautifulsoup4` and `requests` python libraries.
 
