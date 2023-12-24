@@ -25,6 +25,9 @@ def check_css(url, css):
           # Add the selector to the list of found selectors
           found_selectors.append(selector)
 
+  # Convert the list to a set to remove duplicates
+  found_selectors = set(found_selectors)
+
   # Print the found selectors
   for selector in found_selectors:
     print(f"Found CSS selector {selector}")
