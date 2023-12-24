@@ -6,6 +6,6 @@ Requires `beautifulsoup4` and `requests` python libraries.
 - Debian: `apt install python3-bs4 python3-requests`
 - Other: `pip install requests beautifulsoup4`
 
-Run with: `python css-check.py --site https://example.com --css ".class,#id"`
+Run with: `python css-check.py --site https://www.google.se --css ".g,.gb4,#gbar,.example-class"`
 
 Any CSS selectors you want to check must be separated by commas.
