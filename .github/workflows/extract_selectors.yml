@@ -1,0 +1,27 @@
+name: Extract Selectors
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Execute Python script
+        run: python tools/check-css/extract-selectors.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.email "<>"
+          git config --global user.name "GitHub-Actions"
+          git add logs/selectors.txt
+          git commit -m "Update logs"
+          git push
