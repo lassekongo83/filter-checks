@@ -1,7 +1,7 @@
 import re
 from collections import OrderedDict
 
-with open('filter.txt', 'r') as f:
+with open('./lists/main.txt', 'r') as f:
   lines = f.readlines()
 
 output_lines = OrderedDict()
@@ -19,8 +19,10 @@ for line in lines:
       domain = domain_parts[0]
       if domain: # Check if domain is not empty
         domain = 'https://' + domain
-        output_line = f'--site {domain} --css "{",".join(selectors)}"'
+        output_line = f'--site {domain} --css "{",".join(selectors)}"\n'
         output_lines[output_line] = None
 
-for output_line in output_lines:
-  print(output_line)
+# Open the output file in write mode
+with open('./logs/selectors.txt', 'w') as f:
+  for output_line in output_lines:
+    f.write(output_line)
