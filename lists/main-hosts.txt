@@ -233,7 +233,6 @@
 127.0.0.1 click.vgnett.no
 127.0.0.1 auction-release.mlpapi.com
 127.0.0.1 elasticad.net
-127.0.0.1 besstahete.info
 127.0.0.1 openx.gamereactor.dk
 127.0.0.1 analytics-sdk.yle.fi
 127.0.0.1 stats.kaltura.com
@@ -418,6 +417,7 @@
 127.0.0.1 www8.smartadserver.com
 127.0.0.1 prg.smartadserver.com
 127.0.0.1 videoapi.smartadserver.com
+127.0.0.1 csync-global.smartadserver.com
 127.0.0.1 hbid.ams3.cdn.digitaloceanspaces.com
 127.0.0.1 etc-cdn-staging.ams3.digitaloceanspaces.com
 127.0.0.1 imp.tradedoubler.com
@@ -440,7 +440,6 @@
 127.0.0.1 cdn.branch.io
 127.0.0.1 pixel.mathtag.com
 127.0.0.1 analytics.freespee.com
-127.0.0.1 srv.se.znaptag.com
 127.0.0.1 cdn.popt.in
 127.0.0.1 dackpartner-web.s3.amazonaws.com
 127.0.0.1 script.ioam.de
@@ -468,7 +467,6 @@
 127.0.0.1 cdn.relevant-digital.com
 127.0.0.1 otc-cdn.relevant-digital.com
 127.0.0.1 app.converdiant.com
-127.0.0.1 cdn.maaw.io
 127.0.0.1 pxl.host
 127.0.0.1 se5.pliing.com
 127.0.0.1 gamblingsyndication.com
@@ -693,15 +691,14 @@
 127.0.0.1 pixel-sync.sitescout.com
 127.0.0.1 cdn.wootric.com
 127.0.0.1 pi.pardot.com
-127.0.0.1 ads.insikt24.se
 127.0.0.1 media.go2speed.org
 127.0.0.1 freegeoip.app
 127.0.0.1 cl.k5a.io
 127.0.0.1 cl-eu2.k5a.io
+127.0.0.1 cl-eu4.k5a.io
 127.0.0.1 embed.bannerboo.com
 127.0.0.1 app.truconversion.com
 127.0.0.1 insight.nikkasystems.com
-127.0.0.1 ads.nyatider.nu
 127.0.0.1 boost-cdn.manatee.dk
 127.0.0.1 core.manatee.io
 127.0.0.1 core.centotag.io
@@ -950,7 +947,6 @@
 127.0.0.1 tracking.expressen.se
 127.0.0.1 sgtm.inet.se
 127.0.0.1 adserver.ddev.site
-127.0.0.1 collect.igodigital.com
 127.0.0.1 cdn1.profitmetrics.io
 127.0.0.1 stats.playoncenter.com
 127.0.0.1 v.lkqd.net
@@ -960,7 +956,6 @@
 127.0.0.1 dakine.com.se
 127.0.0.1 barbours.com.se
 127.0.0.1 serenitycandles.com.se
-127.0.0.1 caterpillarsverige.net
 127.0.0.1 valentinosverige.com
 127.0.0.1 campersverige.com.se
 127.0.0.1 loewe.com.se
@@ -968,10 +963,8 @@
 127.0.0.1 longchampstockholm.com.se
 127.0.0.1 keenstockholm.com.se
 127.0.0.1 sneakersisverige.com
-127.0.0.1 asicsisverige.com
 127.0.0.1 palmangelssverige.com.se
 127.0.0.1 rockportskorsverige.com
-127.0.0.1 gym-shark-sverige.com.se
 127.0.0.1 alkemi.com.se
 127.0.0.1 footjoygolfskorrea.com.se
 127.0.0.1 girohjalm.com.se
@@ -1048,6 +1041,7 @@
 127.0.0.1 tracker.kulturradet.open-analytics.se
 127.0.0.1 www.adnordics.com
 127.0.0.1 stats.ehandel.se
+127.0.0.1 stats2.ehandel.se
 127.0.0.1 cdn.unblockia.com
 127.0.0.1 cdn.adapex.io
 127.0.0.1 c.aaxads.com
@@ -1076,3 +1070,5 @@
 127.0.0.1 tracking.vaxjobladet.se
 127.0.0.1 tracking.nsk.se
 127.0.0.1 tracking.klt.nu
+127.0.0.1 analytics.icagruppen.se
+127.0.0.1 target.digitalaudience.io
