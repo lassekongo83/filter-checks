@@ -104,6 +104,7 @@
 127.0.0.1 smetrics.aftonbladet.se
 127.0.0.1 jssdk.pulse.schibsted.com
 127.0.0.1 sdk.pulse.schibsted.com
+127.0.0.1 cis.schibsted.com
 127.0.0.1 analytics.codigo.se
 127.0.0.1 pp.lp4.io
 127.0.0.1 p.lp4.io
@@ -338,6 +339,7 @@
 127.0.0.1 ads.stickyadstv.com
 127.0.0.1 script.crazyegg.com
 127.0.0.1 ads.pubmatic.com
+127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 a.adtech.de
 127.0.0.1 adserver.adtech.de
 127.0.0.1 secserv.adtech.de
@@ -352,15 +354,6 @@
 127.0.0.1 widget.citygate.se
 127.0.0.1 widget.cdn.citygate.se
 127.0.0.1 stats.wp.com
-127.0.0.1 ad1.emediate.dk
-127.0.0.1 ad2.emediate.dk
-127.0.0.1 ad3.emediate.dk
-127.0.0.1 ad4.emediate.dk
-127.0.0.1 ad5.emediate.dk
-127.0.0.1 ad6.emediate.dk
-127.0.0.1 ad7.emediate.dk
-127.0.0.1 ad8.emediate.dk
-127.0.0.1 ad9.emediate.dk
 127.0.0.1 eas1.emediate.eu
 127.0.0.1 eas2.emediate.eu
 127.0.0.1 eas3.emediate.eu
@@ -502,7 +495,6 @@
 127.0.0.1 ads.themoneytizer.com
 127.0.0.1 loader.wisepops.com
 127.0.0.1 gwen.insertcoin.se
-127.0.0.1 cmp.network-n.com
 127.0.0.1 jssdkcdns.mparticle.com
 127.0.0.1 mediakraft.se
 127.0.0.1 pa.rxthdr.com
@@ -604,10 +596,13 @@
 127.0.0.1 b-code.liadm.com
 127.0.0.1 s.skimresources.com
 127.0.0.1 tags.crwdcntrl.net
+127.0.0.1 id.crwdcntrl.net
 127.0.0.1 servedby.flashtalking.com
 127.0.0.1 cs.ns1p.net
 127.0.0.1 api.segment.io
 127.0.0.1 cdn.amplitude.com
+127.0.0.1 api.lab.eu.amplitude.com
+127.0.0.1 flag.lab.eu.amplitude.com
 127.0.0.1 api3847.d41.co
 127.0.0.1 cdn-0.d41.co
 127.0.0.1 ads.skidspar.se
@@ -955,9 +950,7 @@
 127.0.0.1 fila.com.se
 127.0.0.1 dakine.com.se
 127.0.0.1 barbours.com.se
-127.0.0.1 serenitycandles.com.se
 127.0.0.1 valentinosverige.com
-127.0.0.1 campersverige.com.se
 127.0.0.1 loewe.com.se
 127.0.0.1 low1sneakerssverige.com
 127.0.0.1 longchampstockholm.com.se
@@ -979,6 +972,7 @@
 127.0.0.1 dinbilgaranti.se
 127.0.0.1 rockeringformsweden.com
 127.0.0.1 rpofsweden.com
+127.0.0.1 rpofsweden.se
 127.0.0.1 digitaliseringsinitiativet.se
 127.0.0.1 caviera-sverige.shop
 127.0.0.1 toppmarkensverige.com
@@ -1072,3 +1066,13 @@
 127.0.0.1 tracking.klt.nu
 127.0.0.1 analytics.icagruppen.se
 127.0.0.1 target.digitalaudience.io
+127.0.0.1 turbolion.io
+127.0.0.1 hits-i.iubenda.com
+127.0.0.1 cdn.stat-track.com
+127.0.0.1 rum-reporter-prod.exp.bn.nr
+127.0.0.1 analytics.vackertvader.se
+127.0.0.1 cdn.qwtag.com
+127.0.0.1 c.bannerflow.net
+127.0.0.1 engine.widespace.com
+127.0.0.1 faro-collector-prod-eu-west-0.grafana.net
+127.0.0.1 sp-eu.dev.polarbyte.com
