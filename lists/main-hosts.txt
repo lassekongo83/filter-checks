@@ -150,7 +150,6 @@
 127.0.0.1 tt.onthe.io
 127.0.0.1 heroaffiliates.com
 127.0.0.1 runtnc.net
-127.0.0.1 anonymousdemographics.com
 127.0.0.1 digidip.net
 127.0.0.1 static.digidip.net
 127.0.0.1 kiosked.com
@@ -213,7 +212,6 @@
 127.0.0.1 revive.edgeflyfishing.com
 127.0.0.1 openx.jaktsidan.se
 127.0.0.1 revive.nyheteridag.se
-127.0.0.1 cdn.oribi.io
 127.0.0.1 viagogo.se
 127.0.0.1 clevernt.com
 127.0.0.1 adnami.io
@@ -287,7 +285,6 @@
 127.0.0.1 fusion.bonniertidskrifter.se
 127.0.0.1 cdn.reaktion.se
 127.0.0.1 secure.reaktion.se
-127.0.0.1 fapp.pw
 127.0.0.1 lduhtrp.net
 127.0.0.1 adroll.com
 127.0.0.1 assets.heylink.com
@@ -458,6 +455,7 @@
 127.0.0.1 trckr1.nordiskemedier.dk
 127.0.0.1 apps-cdn.relevant-digital.com
 127.0.0.1 cdn.relevant-digital.com
+127.0.0.1 mgdk-cdn.relevant-digital.com
 127.0.0.1 otc-cdn.relevant-digital.com
 127.0.0.1 app.converdiant.com
 127.0.0.1 pxl.host
@@ -974,7 +972,6 @@
 127.0.0.1 rpofsweden.com
 127.0.0.1 rpofsweden.se
 127.0.0.1 digitaliseringsinitiativet.se
-127.0.0.1 caviera-sverige.shop
 127.0.0.1 toppmarkensverige.com
 127.0.0.1 fraagesport.com
 127.0.0.1 nucleusanalytics.io
@@ -1076,3 +1073,16 @@
 127.0.0.1 engine.widespace.com
 127.0.0.1 faro-collector-prod-eu-west-0.grafana.net
 127.0.0.1 sp-eu.dev.polarbyte.com
+127.0.0.1 cdn.pushmaster-cdn.xyz
+127.0.0.1 tradecore.tradehouse.media
+127.0.0.1 analytics.allas.se
+127.0.0.1 analytics.hant.se
+127.0.0.1 analytics.elle.se
+127.0.0.1 analytics.femina.se
+127.0.0.1 analytics.mabra.com
+127.0.0.1 analytics.residencemagazine.se
+127.0.0.1 analytics.svenskdam.se
+127.0.0.1 analytics.motherhood.se
+127.0.0.1 analytics.teknikveckan.se
+127.0.0.1 pm.azerioncircle.com
+127.0.0.1 backend.qimtek.se
