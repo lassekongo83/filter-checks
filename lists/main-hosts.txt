@@ -93,7 +93,6 @@
 127.0.0.1 t.raptorsmartadvisor.com
 127.0.0.1 masture.mobi
 127.0.0.1 look.ufinkln.com
-127.0.0.1 kyrkoskatten.se
 127.0.0.1 ax.idg.se
 127.0.0.1 ai.idg.se
 127.0.0.1 rabble-res.cloudinary.com
@@ -130,6 +129,7 @@
 127.0.0.1 storymedia.se
 127.0.0.1 publish-int.se
 127.0.0.1 norstatsurveys.com
+127.0.0.1 sch-map.norstatsurveys.com
 127.0.0.1 research-int.se
 127.0.0.1 trafficgateway.research-int.se
 127.0.0.1 se.ads.justpremium.com
@@ -211,6 +211,7 @@
 127.0.0.1 adnami2.io
 127.0.0.1 macro.adnami.io
 127.0.0.1 macro.adnami2.io
+127.0.0.1 functions.adnami.io
 127.0.0.1 ads.fotosidan.se
 127.0.0.1 statsapi.screen9.com
 127.0.0.1 norranstats.azurewebsites.net
@@ -219,7 +220,6 @@
 127.0.0.1 log-api.newrelic.com
 127.0.0.1 s.vi-serve.com
 127.0.0.1 svt.d3.sc.omtrdc.net
-127.0.0.1 adtomafusion.com
 127.0.0.1 click.vgnett.no
 127.0.0.1 auction-release.mlpapi.com
 127.0.0.1 elasticad.net
@@ -813,7 +813,6 @@
 127.0.0.1 ext.track.tappx.com
 127.0.0.1 ssp.api.tappx.com
 127.0.0.1 schibsted-cdn.relevant-digital.com
-127.0.0.1 tapet.bonniernews.se
 127.0.0.1 stats.helsingborg.se
 127.0.0.1 b.ns1p.net
 127.0.0.1 affiliates.videoslots.com
@@ -907,6 +906,7 @@
 127.0.0.1 tracking.etidning.di.se
 127.0.0.1 tracking.etidning.dn.se
 127.0.0.1 tracking.di.se
+127.0.0.1 tracking.borssnack.di.se
 127.0.0.1 tracking.ditv.di.se
 127.0.0.1 tracking.dn.se
 127.0.0.1 tracking.aktuellhallbarhet.se
@@ -1072,3 +1072,12 @@
 127.0.0.1 ads.exakt24.se
 127.0.0.1 banners.wsnonline.dk
 127.0.0.1 s.cartbooster.io
+127.0.0.1 metrics-fe-na1.hubspot.com
+127.0.0.1 gtm.ekonomifakta.se
+127.0.0.1 tracking.viivilla.se
+127.0.0.1 js.adsaga.se
+127.0.0.1 cdp-eu.customer.io
+127.0.0.1 aeonmedia.matomo.cloud
+127.0.0.1 target.digitalaudience.io
+127.0.0.1 analytics.sitewit.com
+127.0.0.1 analys.landskrona.se
