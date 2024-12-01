@@ -96,7 +96,6 @@
 127.0.0.1 ax.idg.se
 127.0.0.1 ai.idg.se
 127.0.0.1 rabble-res.cloudinary.com
-127.0.0.1 jssdk.pulse.schibsted.com
 127.0.0.1 sdk.pulse.schibsted.com
 127.0.0.1 sdkconfig.pulse.schibsted.io
 127.0.0.1 sdkconfig.pulse.m10s.io
@@ -622,6 +621,7 @@
 127.0.0.1 cdn.adt356.com
 127.0.0.1 cdn.adt361.com
 127.0.0.1 cdn.adt511.net
+127.0.0.1 cdn.adt512.com
 127.0.0.1 cdn.adt523.net
 127.0.0.1 cdn.adt532.com
 127.0.0.1 cdn.adt545.net
@@ -907,12 +907,14 @@
 127.0.0.1 tracking.etidning.dn.se
 127.0.0.1 tracking.di.se
 127.0.0.1 tracking.borssnack.di.se
+127.0.0.1 tracking.nyhetstjansterna.di.se
 127.0.0.1 tracking.ditv.di.se
 127.0.0.1 tracking.dn.se
 127.0.0.1 tracking.aktuellhallbarhet.se
 127.0.0.1 tracking.byggindustrin.se
 127.0.0.1 tracking.dagensmedia.se
 127.0.0.1 tracking.dagensmedicin.se
+127.0.0.1 tracking.nyhetstjansterna.dagensmedicin.se
 127.0.0.1 tracking.fastighetsnytt.se
 127.0.0.1 tracking.resume.se
 127.0.0.1 tracking.dagenssamhalle.se
@@ -921,6 +923,9 @@
 127.0.0.1 tracking.tailsweep.expressen.se
 127.0.0.1 tracking.illvet.se
 127.0.0.1 tracking.expressen.se
+127.0.0.1 tracking.folkracepuls.se
+127.0.0.1 tracking.morgonexpressen.se
+127.0.0.1 tracking.kpwebben.se
 127.0.0.1 sgtm.inet.se
 127.0.0.1 adserver.ddev.site
 127.0.0.1 cdn1.profitmetrics.io
@@ -937,7 +942,6 @@
 127.0.0.1 girohjalm.com.se
 127.0.0.1 www.vejaskor.com.se
 127.0.0.1 www.gymshark-sweden.com.se
-127.0.0.1 www.vejasskor.com
 127.0.0.1 www.guesssverige.com.se
 127.0.0.1 www.alphalete.com.se
 127.0.0.1 www.championsverige.com.se
@@ -1088,3 +1092,8 @@
 127.0.0.1 scripts.simpleanalyticscdn.com
 127.0.0.1 ads.bethard.com
 127.0.0.1 analytics-ingress-global.bitmovin.com
+127.0.0.1 eu.npario-inc.net
+127.0.0.1 smetrics.avanza.se
+127.0.0.1 stats.med.lu.se
+127.0.0.1 gtm-service.flygbra.se
+127.0.0.1 www.lduhtrp.net
