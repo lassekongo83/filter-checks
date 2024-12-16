@@ -1,4 +1,4 @@
-These are log files created by GitHub Actions once per week.
+These are log files created by GitHub Actions.
 
 <table>
   <tr align="left">
