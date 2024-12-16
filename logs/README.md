@@ -7,7 +7,7 @@ These are log files created by GitHub Actions.
   </tr>
   <tr>
     <td>domains.txt</td>
-    <td>All the domains included in the Swedish filter list</td>
+    <td>All the domains included in the specified filter list</td>
   </tr>
   <tr>
     <td>inactive_domains.log</td>
