@@ -664,7 +664,10 @@
 127.0.0.1 freegeoip.app
 127.0.0.1 cl.k5a.io
 127.0.0.1 cl-eu2.k5a.io
+127.0.0.1 cl-eu3.k5a.io
 127.0.0.1 cl-eu4.k5a.io
+127.0.0.1 cl-eu5.k5a.io
+127.0.0.1 cl-eu6.k5a.io
 127.0.0.1 embed.bannerboo.com
 127.0.0.1 app.truconversion.com
 127.0.0.1 insight.nikkasystems.com
@@ -919,6 +922,7 @@
 127.0.0.1 tracking.market.se
 127.0.0.1 tracking.dagligvarunytt.se
 127.0.0.1 tracking.tailsweep.expressen.se
+127.0.0.1 tracking.livesport.expressen.se
 127.0.0.1 tracking.illvet.se
 127.0.0.1 tracking.expressen.se
 127.0.0.1 tracking.folkracepuls.se
@@ -931,13 +935,11 @@
 127.0.0.1 www.adsmatcher.com
 127.0.0.1 statsapi.tiendeo.se
 127.0.0.1 fila.com.se
-127.0.0.1 www.filasverigese.com
 127.0.0.1 barbours.com.se
 127.0.0.1 valentinosverige.com
 127.0.0.1 longchampstockholm.com.se
 127.0.0.1 alkemi.com.se
 127.0.0.1 footjoygolfskorrea.com.se
-127.0.0.1 girohjalm.com.se
 127.0.0.1 www.vejaskor.com.se
 127.0.0.1 www.gymshark-sweden.com.se
 127.0.0.1 www.guesssverige.com.se
@@ -1102,4 +1104,4 @@
 127.0.0.1 banner.bet365partners.com
 127.0.0.1 media.comeon.com
 127.0.0.1 media.snabbare.com
-127.0.0.1 wprp.zemanta.com
+127.0.0.1 statistik.sailguide.com
