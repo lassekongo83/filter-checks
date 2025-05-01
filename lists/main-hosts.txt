@@ -357,6 +357,7 @@
 127.0.0.1 tag.targeting.unrulymedia.com
 127.0.0.1 ad.360yield.com
 127.0.0.1 idpt.360yield.com
+127.0.0.1 fms.360yield.com
 127.0.0.1 extern.prisjakt.nu
 127.0.0.1 mega.vk.se
 127.0.0.1 mega.folkbladet.nu
@@ -604,6 +605,7 @@
 127.0.0.1 tag.imonomy.com
 127.0.0.1 media.aso1.net
 127.0.0.1 gcdn.2mdn.net
+127.0.0.1 s0.2mdn.net
 127.0.0.1 ads.skolvarlden.se
 127.0.0.1 cdn.zx-adnet.com
 127.0.0.1 cdn.adtrue.com
@@ -932,7 +934,6 @@
 127.0.0.1 stats.playoncenter.com
 127.0.0.1 www.adsmatcher.com
 127.0.0.1 fila.com.se
-127.0.0.1 barbours.com.se
 127.0.0.1 valentinosverige.com
 127.0.0.1 longchampstockholm.com.se
 127.0.0.1 alkemi.com.se
@@ -947,7 +948,6 @@
 127.0.0.1 digitaliseringsinitiativet.se
 127.0.0.1 toppmarkensverige.com
 127.0.0.1 fraagesport.com
-127.0.0.1 nucleusanalytics.io
 127.0.0.1 analytics.apotekhjartat.se
 127.0.0.1 darwin.affiliatewindow.com
 127.0.0.1 img.ascontentcloud.com
@@ -1008,7 +1008,6 @@
 127.0.0.1 stpd.cloud
 127.0.0.1 js.multibrandaffiliates.com
 127.0.0.1 analytics.undeco.se
-127.0.0.1 track.yetric.app
 127.0.0.1 nitroscripts.com
 127.0.0.1 cdn.pushalert.co
 127.0.0.1 gtm.allabolag.se
@@ -1108,3 +1107,9 @@
 127.0.0.1 cdn.stroeerdigitalgroup.de
 127.0.0.1 tagging.hemnet.se
 127.0.0.1 analytics.alandsradio.ax
+127.0.0.1 analytics.lexbase.se
+127.0.0.1 booli-logger.prod.booli.se
+127.0.0.1 booli.containers.piwik.pro
+127.0.0.1 tracking.prv.se
+127.0.0.1 track.yetric.net
+127.0.0.1 wb-analytics.onecruiter.com
