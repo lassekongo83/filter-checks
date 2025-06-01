@@ -461,7 +461,6 @@
 127.0.0.1 mcgtrack.herokuapp.com
 127.0.0.1 adserver.so-rummet.se
 127.0.0.1 cdn.adspirit.de
-127.0.0.1 tracking.bonnier.news
 127.0.0.1 brandy.bonniernewslifestyle.se
 127.0.0.1 cd.connatix.com
 127.0.0.1 capi.connatix.com
@@ -739,7 +738,6 @@
 127.0.0.1 webbplatsanalys.goteborg.se
 127.0.0.1 servg1.net
 127.0.0.1 statistik.svenskaakademien.se
-127.0.0.1 ads.annonsbladet.com
 127.0.0.1 tags.refinery89.com
 127.0.0.1 vg02.met.vgwort.de
 127.0.0.1 tracking.inboxads.com
@@ -1113,3 +1111,14 @@
 127.0.0.1 tracking.prv.se
 127.0.0.1 track.yetric.net
 127.0.0.1 wb-analytics.onecruiter.com
+127.0.0.1 rentia.se
+127.0.0.1 rentler.se
+127.0.0.1 bostad24.se
+127.0.0.1 hyrio.se
+127.0.0.1 rentify.se
+127.0.0.1 bostadsportal.se
+127.0.0.1 bostadslistan.se
+127.0.0.1 t.fastcmp.com
+127.0.0.1 js.adsaga.telgenytt.se
+127.0.0.1 adsaga.telgenytt.se
+127.0.0.1 ads.us.e-planning.net
