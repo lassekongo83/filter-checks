@@ -279,7 +279,6 @@
 127.0.0.1 content.livesportmedia.eu
 127.0.0.1 newstats.blogg.se
 127.0.0.1 addy.expressen.se
-127.0.0.1 spel.expressen.se
 127.0.0.1 lanapengar.expressen.se
 127.0.0.1 1terms.com
 127.0.0.1 accesslnk.com
@@ -578,6 +577,7 @@
 127.0.0.1 cdn.amplitude.com
 127.0.0.1 api.lab.eu.amplitude.com
 127.0.0.1 flag.lab.eu.amplitude.com
+127.0.0.1 sr-client-cfg.eu.amplitude.com
 127.0.0.1 api3847.d41.co
 127.0.0.1 cdn-0.d41.co
 127.0.0.1 ads.skidspar.se
@@ -746,7 +746,6 @@
 127.0.0.1 angry-golick-2a96e5.netlify.app
 127.0.0.1 adncdnend.azureedge.net
 127.0.0.1 assets.revcontent.com
-127.0.0.1 servedby.lintigroup.se
 127.0.0.1 offer-go.com
 127.0.0.1 t.elasticsuite.io
 127.0.0.1 feed.aservice.tools
@@ -926,12 +925,12 @@
 127.0.0.1 tracking.folkracepuls.se
 127.0.0.1 tracking.morgonexpressen.se
 127.0.0.1 tracking.kpwebben.se
+127.0.0.1 tracking.varldenshistoria.se
 127.0.0.1 sgtm.inet.se
 127.0.0.1 adserver.ddev.site
 127.0.0.1 cdn1.profitmetrics.io
 127.0.0.1 stats.playoncenter.com
 127.0.0.1 www.adsmatcher.com
-127.0.0.1 fila.com.se
 127.0.0.1 valentinosverige.com
 127.0.0.1 longchampstockholm.com.se
 127.0.0.1 alkemi.com.se
@@ -1122,3 +1121,12 @@
 127.0.0.1 js.adsaga.telgenytt.se
 127.0.0.1 adsaga.telgenytt.se
 127.0.0.1 ads.us.e-planning.net
+127.0.0.1 cadmus.script.ac
+127.0.0.1 panorama.wixapps.net
+127.0.0.1 wix-engage-visitors-prod-16.firebaseio.com
+127.0.0.1 cdn.by.wonderpush.com
+127.0.0.1 cdn.brevo.com
+127.0.0.1 metrics.beyondwords.io
+127.0.0.1 annons.fiskesnack.com
+127.0.0.1 cdn.lrkt-in.com
+127.0.0.1 privalytic.com
