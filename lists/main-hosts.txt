@@ -68,6 +68,7 @@
 127.0.0.1 royapp.com
 127.0.0.1 sannsyn.com
 127.0.0.1 seenthis.se
+127.0.0.1 telemetry.seenthis.io
 127.0.0.1 serverbid.com
 127.0.0.1 apps.shareaholic.com
 127.0.0.1 cdn.shareaholic.net
@@ -261,7 +262,6 @@
 127.0.0.1 pheegoab.click
 127.0.0.1 ads.compro.se
 127.0.0.1 feedads.feedblitz.com
-127.0.0.1 s.pubmine.com
 127.0.0.1 app.yieldify.com
 127.0.0.1 salesbooster.ai
 127.0.0.1 adhost.se
@@ -935,7 +935,6 @@
 127.0.0.1 longchampstockholm.com.se
 127.0.0.1 alkemi.com.se
 127.0.0.1 footjoygolfskorrea.com.se
-127.0.0.1 www.vejaskor.com.se
 127.0.0.1 www.gymshark-sweden.com.se
 127.0.0.1 www.alphalete.com.se
 127.0.0.1 www.championsverige.com.se
@@ -1130,3 +1129,11 @@
 127.0.0.1 annons.fiskesnack.com
 127.0.0.1 cdn.lrkt-in.com
 127.0.0.1 privalytic.com
+127.0.0.1 adsdk.microsoft.com
+127.0.0.1 cdn.spelwidgets.se
+127.0.0.1 matomo.nokportalen.se
+127.0.0.1 premium.analys.cloud
+127.0.0.1 www.creativeconsortiuminspired.com
+127.0.0.1 leue.stape.net
+127.0.0.1 analytics.alandpost.com
+127.0.0.1 annonser.snoap.no
