@@ -167,7 +167,6 @@
 127.0.0.1 litix.io
 127.0.0.1 ccjnhnqfnvsr3otokvf59ns52.litix.io
 127.0.0.1 branch.io
-127.0.0.1 libring.com
 127.0.0.1 static.criteo.net
 127.0.0.1 rtax.criteo.com
 127.0.0.1 r.existenz.se
@@ -621,6 +620,7 @@
 127.0.0.1 cdn.adt532.com
 127.0.0.1 cdn.adt545.net
 127.0.0.1 cdn.adt567.net
+127.0.0.1 cdn.adt574.com
 127.0.0.1 cdn.adt598.com
 127.0.0.1 images.passendo.com
 127.0.0.1 www.tamgrt.com
@@ -753,6 +753,7 @@
 127.0.0.1 classic.avantlink.com
 127.0.0.1 affiliatemedia.speedybet.com
 127.0.0.1 wleuroearners.adsrv.eacdn.com
+127.0.0.1 wlcoolbet.adsrv.eacdn.com
 127.0.0.1 media.casumoaffiliates.com
 127.0.0.1 media.hajper.com
 127.0.0.1 analytics.gen.shield.monitoringservice.co
@@ -811,6 +812,7 @@
 127.0.0.1 ext.track.tappx.com
 127.0.0.1 ssp.api.tappx.com
 127.0.0.1 schibsted-cdn.relevant-digital.com
+127.0.0.1 eniro-cdn.relevant-digital.com
 127.0.0.1 stats.helsingborg.se
 127.0.0.1 b.ns1p.net
 127.0.0.1 affiliates.videoslots.com
@@ -935,7 +937,6 @@
 127.0.0.1 longchampstockholm.com.se
 127.0.0.1 alkemi.com.se
 127.0.0.1 footjoygolfskorrea.com.se
-127.0.0.1 www.gymshark-sweden.com.se
 127.0.0.1 www.alphalete.com.se
 127.0.0.1 www.championsverige.com.se
 127.0.0.1 dinbilgaranti.se
@@ -1073,6 +1074,7 @@
 127.0.0.1 annonsserver.se
 127.0.0.1 api.rudderstack.com
 127.0.0.1 cdn.rudderlabs.com
+127.0.0.1 app.visitor-analytics.io
 127.0.0.1 loadbalancer.visitor-analytics.io
 127.0.0.1 statcounter.va-endpoint.com
 127.0.0.1 svanalytics.containers.piwik.pro
@@ -1137,3 +1139,15 @@
 127.0.0.1 leue.stape.net
 127.0.0.1 analytics.alandpost.com
 127.0.0.1 annonser.snoap.no
+127.0.0.1 assets.zubitracker.io
+127.0.0.1 statistik.jagareforbundet.se
+127.0.0.1 r1.ddlnk.net
+127.0.0.1 app.nocodelytics.com
+127.0.0.1 cdn.confiant-integrations.net
+127.0.0.1 scripts.stay22.com
+127.0.0.1 ls.dycdn.net
+127.0.0.1 bb-pbc.mainroll.com
+127.0.0.1 load.a.receptskatt.se
+127.0.0.1 analytics.citreamedia.com
+127.0.0.1 go.affiliationcloud.com
+127.0.0.1 my.rtmark.net
