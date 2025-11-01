@@ -124,7 +124,6 @@ residencemagazine.se
 motherhood.se
 recept.se
 skippo.se
-tradera.com
 xxl.se
 aikfotboll.se
 vaken.se
@@ -205,6 +204,7 @@ allaaktier.se
 kryssakuten.se
 kopahund.se
 hjart-lung.se
+spfseniorerna.se
 aktieskolan.se
 aktiespararna.se
 alekuriren.se
@@ -466,11 +466,9 @@ foodnet.se
 transportnet.se
 processnet.se
 packnet.se
-verkstaderna.se
 medtechmagazine.se
 recyclingnet.se
 rt-forum.se
-uochd.se
 lifesciencesweden.se
 fri-kopenskap.se
 cleannet.se
@@ -579,6 +577,8 @@ atl.nu
 landlantbruk.se
 land.se
 dn.se
+tradera.com
+nyheter24.se
 fodertipset.se
 citattorget.se
 citiboard.se
@@ -626,8 +626,6 @@ tidningenbyggmaterial.se
 taxiidag.se
 tidningendacksnack.se
 besoksliv.se
-best-prizes-now.$all
-reason=Scams and
 bestchampagne.se
 bettingstugan.se
 bettingutansvensklicens.co
@@ -670,7 +668,6 @@ voov.nu
 matochdrycker.se
 drugnews.se
 ladiesabroad.se
-ninjateknik.com
 reportrarutangranser.se
 villatidningen.se
 itgurun.se
@@ -680,6 +677,7 @@ matnytt.com
 serieframjandet.se
 sportposten.se
 teknikhandboken.se
+skanesfolkblad.se
 bilkoparguiden.nu
 bilresaieuropa.se
 bilsport.se
@@ -734,6 +732,7 @@ bredband.se
 telepriskollen.se
 kontantkort.se
 simkort.se
+xn--fackfrbund-icb.com
 brollopsguiden.se
 brukshunden.se
 bstatic.com
@@ -752,13 +751,13 @@ fof.se
 lchfarkivet.se
 kollega.se
 folkofolk.se
-skyscanner.se
 dagensarena.se
 mytaste.se
 matklubben.se
 vivavinomat.se
 skidspar.se
 hellofresh.se
+goteborgco.se
 bussmagasinet.se
 byggteknikforlaget.se
 dialasen.com
@@ -783,6 +782,7 @@ bolagsfakta.se
 dinordbok.se
 motorbranschen.mrf.se
 rakapuckar.com
+ordspel.nu
 byggfakta.today
 citymark.today
 hotellorestaurang.se
@@ -940,6 +940,7 @@ da.se
 elongroup.se
 adoptionscentrum.se
 rappne.se
+el-kretsen.se
 dackavisen.se
 dackpartner-web.s3.amazonaws.com
 dagen.se
@@ -947,7 +948,6 @@ vinborsen.se
 dagensinnovation.se
 nyheter.swebbtv.se
 modernalivet.se
-nyhetersto.se
 magasinetkonkret.se
 a-traktorer.se
 dagensnamn.nu
@@ -962,6 +962,7 @@ dagenshultsfred.se
 webbkameror.se
 omkonst.com
 saltvattensguiden.se
+motorsportivarmland.nu
 daisybeauty.com
 dansbandsnytt.se
 danskaspraket.se
@@ -971,6 +972,7 @@ annonsere.gulesider.no
 annonsmarknan.se
 studeravidare.se
 frontkick.online
+fojo.se
 daxkryss.se
 dayviews.com
 deals.innocode.no
@@ -982,6 +984,7 @@ sistaminuten.se
 detfriasverige.circle.so
 didomi.nwtmedia.se
 digitalavykort.se
+digitalcaramel.com
 digitalfotoforalla.se
 iform.se
 pctidningen.se
@@ -993,11 +996,11 @@ fraagesport.com
 kyrkavgift.se
 dinbilgaranti.se
 accesslnk.com
-1terms.com
 digitaloceanspaces.com
 digiteket.se
 dikko.nu
 dinamediciner.se
+dinbil.se
 dinbyggare.se
 dinstartsida.se
 raggningsboken.se
@@ -1086,6 +1089,7 @@ driva-eget.se
 dsc.gg
 dsms0mj1bbhn4.cloudfront.net
 dspk.kindredplc.com
+dx-radio.se
 dykarna.nu
 easyweb.se
 ebbot.eu
@@ -1117,6 +1121,7 @@ episerver.net
 epochtimes.se
 vinliv.se
 maipenrai.se
+korsordx.se
 epollstats.infotheme.net
 es.loppi.se
 esportare.se
@@ -1143,7 +1148,6 @@ evidon.com
 exakt24.se
 execute-api.eu-west-1.amazonaws.com
 existenz.se
-funfunfun.se
 exitintel.com
 expekt.se
 expo.se
@@ -1151,7 +1155,6 @@ vasterastidning.se
 mitti.se
 viivilla.se
 ibnytt.se
-nyheter24.se
 golfing.se
 norrahalland.se
 lokalti.se
@@ -1297,7 +1300,6 @@ obsid.se
 fssweden.se
 tinyurl.se
 mobil.se
-g.ezodn.com
 gaffa.se
 gais.se
 gamblersrules.com
@@ -1400,7 +1402,6 @@ herokuapp.com
 hifitorget.se
 himlentv7.se
 hippson.se
-hittahem.se
 hojen.nu
 holid.io
 home2tiny.se
@@ -1409,16 +1410,16 @@ horisontmagasin.se
 hq.volomedia.com
 hrsvepet.se
 cfosvepet.se
+vdsvepet.se
 hu-manity.co
 humorbrevet.se
 hungrig.nu
+husbil.se
 husbilhusvagn.se
 vibilagare.se
 husbilskompisar.se
 husbilsplats.se
 husbilsskolan.se
-husvagn.se
-husbil.se
 huvudvarksforbundet.se
 hybridio.se
 ica.se
@@ -1457,7 +1458,10 @@ aftonkuriren.com
 samtiden.nu
 alltomhallbarhet.se
 luleapride.se
+epilepsi.se
+nyhetersto.se
 iconosquare.com
+idrottsbranschen.se
 ifiske.se
 ifragasatt.se
 gds.se
@@ -1506,6 +1510,7 @@ tidningenattention.se
 fremia.se
 sprintchallenge.se
 fondbolagen.se
+tidningenrevansch.se
 innerstadengbg.se
 inputmag.se
 milansverige.se
@@ -1586,6 +1591,7 @@ skogssallskapet.se
 formas.se
 rf.se
 naturvetarna.se
+skyscanner.se
 tidningencurie.se
 kiaindex.se
 killsteal.se
@@ -1615,6 +1621,7 @@ kpwebben.se
 kristendate.se
 krogen.se
 krogguiden.se
+kropps.se
 kultmagasin.se
 kultur1.se
 kulturbloggen.com
@@ -1683,6 +1690,7 @@ twostrokerider.se
 eqotime.com
 tranakampsport.se
 forsvarssektorn.se
+infobladet.com
 biblioteksforeningen.se
 ljudochbild.se
 ljungbysporten.se
@@ -1751,6 +1759,7 @@ tidningenmikroskop.se
 xn--alltommigrn-u8a.se
 industrifakta.com
 siljansbygden.se
+svensktorv.se
 look.utndln.com
 pheegoab.click
 pushwhy.com
@@ -1887,7 +1896,6 @@ naringsliv.ax
 natursidan.se
 netflixguiden.se
 radio.se
-downdetector.se
 network-n.com
 newstag.com
 newstats.blogg.se
@@ -1946,6 +1954,10 @@ westmagazine.se
 fcsverige.se
 tradepartnerssweden.se
 stockholmfashiondistrict.se
+filmstockholm.se
+filmivast.se
+vett-och-etikett.com
+raddningsmissionen.se
 nichehuset.dk
 nickwignall.com
 nogg.se
@@ -1987,8 +1999,7 @@ elitettan.se
 odla.nu
 onesignal.com
 onetrust.com
-online.swedbank.se.swedd.$all
-reason=🇸🇪 Bedrägeri
+onetrust.eu
 onrender.com
 open-analytics.se
 openreplay.com
@@ -2329,6 +2340,7 @@ travelgrip.se
 travellink.se
 travronden.se
 travrondenspel.se
+breedly.com
 travtjansten.se
 turistkanalen.com
 tv.aftonbladet.se
