@@ -234,7 +234,6 @@
 127.0.0.1 flow.aquaplatform.com
 127.0.0.1 richmetrics.com
 127.0.0.1 flx1.com
-127.0.0.1 c.flx1.com
 127.0.0.1 freespee.com
 127.0.0.1 convertexperiments.com
 127.0.0.1 cdn-3.convertexperiments.com
@@ -279,7 +278,6 @@
 127.0.0.1 newstats.blogg.se
 127.0.0.1 addy.expressen.se
 127.0.0.1 lanapengar.expressen.se
-127.0.0.1 1terms.com
 127.0.0.1 accesslnk.com
 127.0.0.1 creative-serving.com
 127.0.0.1 docker.creative-serving.com
@@ -288,7 +286,6 @@
 127.0.0.1 bannersnack.com
 127.0.0.1 cdn.bannersnack.com
 127.0.0.1 static.step.dk
-127.0.0.1 tr.apsisforms.com
 127.0.0.1 analytics.nikkasystems.com
 127.0.0.1 api.getlevelten.com
 127.0.0.1 analytics.mailmunch.co
@@ -462,6 +459,7 @@
 127.0.0.1 brandy.bonniernewslifestyle.se
 127.0.0.1 cd.connatix.com
 127.0.0.1 capi.connatix.com
+127.0.0.1 pl.connatix.com
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 ads.vidoomy.com
@@ -1152,3 +1150,6 @@
 127.0.0.1 widget.lifeinside.io
 127.0.0.1 app.lifeinside.io
 127.0.0.1 ads.digitalcaramel.com
+127.0.0.1 dcl-cdn.digitalcaramel.com
+127.0.0.1 tr.apsisforms.com
+127.0.0.1 banners.jldigital.se
