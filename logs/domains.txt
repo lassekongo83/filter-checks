@@ -169,6 +169,7 @@ sormlandsbygden.se
 skaneplus.se
 tradgardstrollet.se
 8till5.se
+etunawebben.se
 ajs-assets.ftstatic.com
 akademiskahus.se
 energi.se
@@ -225,6 +226,7 @@ market.se
 dagligvarunytt.se
 privataaffarer.se
 aktuellsakerhet.se
+maklarvarlden.se
 alandpost.ax
 alandstidningen.ax
 rocknytt.net
@@ -519,6 +521,7 @@ sweclockers.com
 fz.se
 helenalyth.se
 bjarenu.se
+expo.se
 alltomhif.se
 alltomibd.se
 alltomjaktochvapen.se
@@ -566,7 +569,6 @@ asset.schwarz
 assets.mailerlite.com
 assets.pinterest.com
 assets.tumblr.com
-assets.voyado.com
 assets.zubitracker.io
 assistanskoll.se
 hrnytt.se
@@ -609,6 +611,7 @@ timbro.se
 auris.nu
 azurewebsites.net
 bandyfeber.com
+banneradder.se
 bannerutbyte.se
 baraenkakatill.se
 barnebys.sh
@@ -762,6 +765,7 @@ vivavinomat.se
 skidspar.se
 hellofresh.se
 goteborgco.se
+burst-statistics.com
 bussmagasinet.se
 byggteknikforlaget.se
 dialasen.com
@@ -930,6 +934,7 @@ culturezone.se
 curemedia.se
 custosgroup.com
 cxpublic.com
+cyclistsbest.se
 cykla.se
 d10lumateci472.cloudfront.net
 d11j2g8hmtmh4u.cloudfront.net
@@ -983,7 +988,6 @@ studeravidare.se
 frontkick.online
 fojo.se
 sverigestidskrifter.se
-daxkryss.se
 dayviews.com
 deals.innocode.no
 deliquate.se
@@ -1106,7 +1110,6 @@ driva-eget.se
 dietisten.net
 dsc.gg
 dsms0mj1bbhn4.cloudfront.net
-dspk.kindredplc.com
 dx-radio.se
 dykarna.nu
 ea.easyweb.site
@@ -1142,6 +1145,9 @@ epochtimes.se
 vinliv.se
 maipenrai.se
 korsordx.se
+hrsvepet.se
+cfosvepet.se
+vdsvepet.se
 epollstats.infotheme.net
 es.loppi.se
 esportare.se
@@ -1155,7 +1161,6 @@ etfmarknaden.se
 etn.se
 uppsalanyheter.se
 rotter.se
-etunawebben.se
 eu-north-1.amazonaws.com
 eu.sentryapi.top
 eugamblers.org
@@ -1171,7 +1176,6 @@ execute-api.eu-west-1.amazonaws.com
 existenz.se
 exitintel.com
 expekt.se
-expo.se
 vasterastidning.se
 mitti.se
 viivilla.se
@@ -1333,6 +1337,7 @@ sjf.se
 global.morningstar.com
 vidzflow.com
 vinia.se
+kvartal.se
 getanewsletter.com
 getlevelten.com
 getsitecontrol.com
@@ -1384,7 +1389,7 @@ hajper.com
 hallbartbyggande.com
 hallbyhandboll.se
 skiljebosk.nu
-lundgiants.se.se
+lundgiants.se
 molndalfotboll.com
 halmstadsport.se
 halsopanel.se
@@ -1434,9 +1439,6 @@ homeq.se
 horisontmagasin.se
 hotellrevyn.se
 hq.volomedia.com
-hrsvepet.se
-cfosvepet.se
-vdsvepet.se
 hu-manity.co
 humorbrevet.se
 hungrig.nu
@@ -1449,6 +1451,7 @@ husbilsskolan.se
 husbyggaren.se
 huvudvarksforbundet.se
 hybridio.se
+i.posthog.com
 ica.se
 apotekhjartat.se
 tele2.se
@@ -1469,7 +1472,6 @@ brollopsmagasinet.se
 megafonen.se
 kyrka.se
 pensionarsliv.se
-maklarvarlden.se
 sjomannen.se
 marketplace.se
 dovastidning.se
@@ -1597,6 +1599,7 @@ kalmarposten.se
 kampsportnews.se
 kamrat.com
 kandisvarlden.com
+kaptenkryss.se
 kardemummagumman.se
 karinrahm.se
 karlskogavaxer.se
@@ -1659,7 +1662,6 @@ kvalitetsmagasinet.se
 miljo-utveckling.se
 techtidningen.se
 vdtidningen.se
-kvartal.se
 kvikr.se
 kwiss.me
 kyrkpressen.fi
@@ -1821,7 +1823,6 @@ huddingeextra.se
 sundsvallextra.se
 goteborgextra.se
 sollentunaextra.se
-lundgiants.se
 lwcdn.com
 lysekilsposten.se
 lystra.se
@@ -2091,7 +2092,6 @@ privacypolicies.com
 proshop.se
 proxyas.com
 prylguiden.expressen.se
-psi3.aftonbladet.se
 psykoterapicentrum.se
 pt.dwcdn.net
 ptm.flowplayer.com
@@ -2186,6 +2186,7 @@ se.moyens.net
 seenthis.co
 seenthis.io
 seenthis.se
+sefnextgen.se
 seiska.fi
 sellingsimplified.net
 seonify.com
@@ -2196,7 +2197,6 @@ shareaholic.net
 sharedcount.com
 sharethis.com
 shoegazing.se
-shopi.tize.no
 shortcut.se
 si.se
 sweden.se
@@ -2294,6 +2294,7 @@ storymedia.se
 stp.gaffa.se
 styrelseguiden.se
 suntana.se
+supabase.co
 superstart.se
 teknikfreak.se
 sv.bab.la
@@ -2323,7 +2324,6 @@ synonymer.se
 t.atmng.io
 t.elasticsuite.io
 t.fastcmp.com
-t.fml.rip
 tabyallehanda.se
 tally.so
 tapet.bnek.bn.nr
@@ -2412,10 +2412,10 @@ typkanske.se
 ubembed.com
 ues.vk.se
 uex.se
+um.merinfo.se
 umami.nordiskehandel.cloud
 paleoskafferiet.se
 ungdomar.se
-unicoach.se
 universitetsmedia.se
 uppsatser.se
 upsales.com
@@ -2466,7 +2466,6 @@ vmhockey.se
 vmj.se
 voodoofilm.org
 vovve.net
-voyager-widgets.aftonbladet.se
 wayke.se
 wb-analytics.onecruiter.com
 wct-1.com
