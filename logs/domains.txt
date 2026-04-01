@@ -48,7 +48,6 @@ adfenix.com
 adfin.in.bosbec.io
 adhype-assets.com
 adhype.se
-admin.bloggplatsen.se
 adnordics.com
 adonsales.com
 adonstudio.com
@@ -234,8 +233,6 @@ upphandling24.se
 datormagazin.se
 villalivet.se
 classicmotor.se
-tidningenhalsa.se
-husohem.se
 guiden.se
 nyadagbladet.se
 enkelteknik.se
@@ -468,7 +465,6 @@ plastnet.se
 habit.se
 woodnet.se
 foodnet.se
-transportnet.se
 processnet.se
 packnet.se
 medtechmagazine.se
@@ -610,6 +606,7 @@ usabil.nu
 timbro.se
 auris.nu
 azurewebsites.net
+bab.la
 bandyfeber.com
 banneradder.se
 bannerutbyte.se
@@ -649,7 +646,6 @@ sverigespringer.se
 gasetten.se
 sillyseason.se
 gentlemannaguiden.com
-matmalin.se
 svensktidskrift.se
 schack.se
 kobe.se
@@ -687,7 +683,6 @@ doku.nu
 sandaren.se
 dagensmuslim.se
 bilkoparguiden.nu
-bilresaieuropa.se
 bilsport.se
 bilweb.se
 bilwebben.ax
@@ -699,7 +694,6 @@ bioenergitidningen.se
 skogen.se
 birthday.se
 bjuvsweek.se
-bloggplatsen.se
 bloggportalen.se
 bloglovin.com
 bobattre.se
@@ -876,7 +870,6 @@ cncptx.com
 collect.breakit.se
 com.se
 www.com.se
-pagalnew.com.se
 comms.omnichannelengagementhub.com
 compado.com
 compricer.se
@@ -924,8 +917,6 @@ unt.se
 helagotland.se
 fastighetsvarlden.se
 covatic.io
-crazygames.se
-crazygames.com
 createsend.com
 createsend1.com
 creativeconsortiuminspired.com
@@ -956,6 +947,7 @@ rappne.se
 el-kretsen.se
 dackavisen.se
 dackpartner-web.s3.amazonaws.com
+daffyhazan.com
 dagen.se
 vinborsen.se
 dagensarbetsmiljo.se
@@ -1003,6 +995,7 @@ designbase.se
 sistaminuten.se
 detfriasverige.circle.so
 didomi.nwtmedia.se
+digiseg.net
 digitalavykort.se
 digitalcaramel.com
 digitalfotoforalla.se
@@ -1207,10 +1200,10 @@ gamingtips.se
 veckansnyheter.se
 nyhetskartan.se
 aldreicentrum.se
+ezoicanalytics.com
 facebook.com
 fakturino.se
 falskacitat.com
-familjehemmet.se
 familjehemsbanken.se
 famobi.com
 fast.fonts.net
@@ -1286,6 +1279,7 @@ akademikern.se
 socionomen.se
 metromode.se
 receptskatt.se
+matmalin.se
 fragasyv.se
 framtid.se
 fraser.nu
@@ -1306,10 +1300,8 @@ kvinnatillkvinna.se
 kyrkanstidning.se
 tn.se
 experimentarkivet.se
-frihet.se
 frihetsnytt.se
 frilagt.se
-frilanstidningen.se
 fritiden.se
 funnygames.se
 nyckelspel.se
@@ -1338,6 +1330,7 @@ global.morningstar.com
 vidzflow.com
 vinia.se
 kvartal.se
+shortcut.se
 getanewsletter.com
 getlevelten.com
 getsitecontrol.com
@@ -1434,14 +1427,12 @@ hockeynews.se
 svenskafans.com
 hojen.nu
 holid.io
-home2tiny.se
 homeq.se
 horisontmagasin.se
 hotellrevyn.se
 hq.volomedia.com
 hu-manity.co
 humorbrevet.se
-hungrig.nu
 husbil.se
 husbilhusvagn.se
 vibilagare.se
@@ -1487,6 +1478,7 @@ alltomhallbarhet.se
 luleapride.se
 epilepsi.se
 nyhetersto.se
+orkesterjournalen.se
 iconosquare.com
 idrottsbranschen.se
 ifiske.se
@@ -1588,6 +1580,7 @@ js.createsend1.com
 js.driftt.com
 js.evtr.nordiskemedier.dk
 js.monitor.azure.com
+jsc.native.azerion.com
 jst.ai
 juligen.se
 jwpcdn.com
@@ -1602,6 +1595,7 @@ kandisvarlden.com
 kaptenkryss.se
 kardemummagumman.se
 karinrahm.se
+sydasien.se
 karlskogavaxer.se
 molndalvaxer.se
 livinguppsala.se
@@ -1922,6 +1916,7 @@ netflixguiden.se
 radio.se
 network-n.com
 neuro.se
+neuwo.ai
 newstag.com
 newstats.blogg.se
 newweather.se
@@ -2036,7 +2031,6 @@ snowmobile.se
 ordguru.se
 ordklasser.se
 orebronyheter.com
-orkesterjournalen.com
 oru.se
 proletaren.se
 oskarshamns-nytt.se
@@ -2076,7 +2070,6 @@ minhast.se
 kalleanka.se
 halge.se
 bamse.se
-scandinavianretro.com
 premium.analys.cloud
 pricerunner.com
 pricerunner.se
@@ -2197,7 +2190,6 @@ shareaholic.net
 sharedcount.com
 sharethis.com
 shoegazing.se
-shortcut.se
 si.se
 sweden.se
 signals.tt.se
@@ -2316,7 +2308,6 @@ svensksegling.se
 svensktgolfforum.se
 sweatybusiness.se
 swecalmagazine.com
-sydasien.se
 sydnarkenytt.se
 sync.3fmediagroup.com
 synonyma.se
@@ -2325,6 +2316,7 @@ t.atmng.io
 t.elasticsuite.io
 t.fastcmp.com
 tabyallehanda.se
+tags.tiqcdn.com
 tally.so
 tapet.bnek.bn.nr
 tavlingsguiden.se
@@ -2366,6 +2358,7 @@ tourn.se
 tr.apsisforms.com
 tracing.yelp.com
 track.intersport.se
+track.mediaintelliview.com
 track.yetric.net
 tracking.fasab6f.se
 tradehouse.media
@@ -2381,7 +2374,7 @@ travronden.se
 travrondenspel.se
 breedly.com
 travtjansten.se
-turistkanalen.com
+treasuredata.com
 ikea.com
 manpower.se
 natgeotv.com
@@ -2393,7 +2386,6 @@ internetmuseum.se
 internetdagarna.se
 digitalalektioner.se
 goto10.se
-bab.la
 voister.se
 nok.se
 motesplatsen.se
@@ -2414,7 +2406,6 @@ ues.vk.se
 uex.se
 um.merinfo.se
 umami.nordiskehandel.cloud
-paleoskafferiet.se
 ungdomar.se
 universitetsmedia.se
 uppsatser.se
