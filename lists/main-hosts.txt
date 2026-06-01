@@ -43,7 +43,6 @@
 127.0.0.1 js.hsleadflows.net
 127.0.0.1 js.hs-banner.com
 127.0.0.1 js.hs-analytics.net
-127.0.0.1 investerarbrevet.se
 127.0.0.1 izooto.com
 127.0.0.1 cdn.izooto.com
 127.0.0.1 leadconnect.ipmaxi.se
@@ -183,7 +182,6 @@
 127.0.0.1 ads.motorvarlden.se
 127.0.0.1 try.abtasty.com
 127.0.0.1 metrics.brightcove.com
-127.0.0.1 tracking.eurosport.com
 127.0.0.1 richaudience.com
 127.0.0.1 s.richaudience.com
 127.0.0.1 sync.richaudience.com
@@ -381,6 +379,7 @@
 127.0.0.1 csync-global.smartadserver.com
 127.0.0.1 hbid.ams3.cdn.digitaloceanspaces.com
 127.0.0.1 etc-cdn-staging.ams3.digitaloceanspaces.com
+127.0.0.1 bidder-cdn.fra1.cdn.digitaloceanspaces.com
 127.0.0.1 imp.tradedoubler.com
 127.0.0.1 impse.tradedoubler.com
 127.0.0.1 tools.tradedoubler.com
@@ -1152,3 +1151,4 @@
 127.0.0.1 track.mediaintelliview.com
 127.0.0.1 live-tag.creatopy.net
 127.0.0.1 jsc.native.azerion.com
+127.0.0.1 analytics.samnytt.se
