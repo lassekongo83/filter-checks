@@ -1,3 +1,4 @@
+100.se
 123on.com
 180.se
 agriaffaires.se
@@ -91,7 +92,6 @@ gestrikemagasinet.se
 cfanytt.se
 lasarnas.se
 hembostad.nu
-sportidrott.se
 nojesmagasinet.nu
 halsasverige.se
 mandarinmedia.se
@@ -105,6 +105,8 @@ blocket.se
 prisjakt.nu
 bytbil.com
 klart.se
+tv4.se
+koket.se
 tv.nu
 axess.se
 freeride.se
@@ -212,6 +214,7 @@ tidningen.se
 kurera.se
 vinbanken.se
 utsidan.se
+offentligaaffarer.se
 aktivtfamiljeliv.se
 aktuellhallbarhet.se
 byggindustrin.se
@@ -421,12 +424,13 @@ cirkulation.se
 ordmedzcxy.se
 rimlab.se
 varldenom.com
+kottchark.se
+epochtimes.se
 coop.se
 dagens.se
 prevent.se
 vision.se
 teksajten.se
-thelocal.se
 allatvkanaler.se
 allergia.se
 fl-net.se
@@ -518,7 +522,8 @@ bjarenu.se
 expo.se
 temperatur.nu
 rikatillsammans.se
-alltomhif.se
+mmanytt.se
+thelocal.se
 alltomibd.se
 alltomjaktochvapen.se
 alltomkungligt.se
@@ -536,6 +541,7 @@ analytics.ciseway.se
 analytics.citreamedia.com
 analytics.gen.shield.monitoringservice.co
 analytics.ozzi.io
+analytics.samnytt.se
 analytics.teknikveckan.se
 analytics.undeco.se
 analytics.webfokus.no
@@ -761,6 +767,7 @@ hellofresh.se
 goteborgco.se
 skogsforum.se
 ratio.se
+thefork.se
 burst-statistics.com
 bussmagasinet.se
 byggteknikforlaget.se
@@ -895,7 +902,6 @@ cookiebot.eu
 cookiehub.eu
 cookiehub.net
 cookieinformation.com
-cookieinfoscript.com
 cookielaw.org
 cookiepro.com
 cookietractor.com
@@ -1102,7 +1108,6 @@ driva-eget.se
 dietisten.net
 dsc.gg
 dsms0mj1bbhn4.cloudfront.net
-dx-radio.se
 dykarna.nu
 ea.easyweb.site
 easyweb.se
@@ -1132,7 +1137,6 @@ emotorsport.se
 engine.groweo.com
 enterprisemagazine.se
 episerver.net
-epochtimes.se
 vinliv.se
 maipenrai.se
 korsordx.se
@@ -1176,8 +1180,6 @@ norrahalland.se
 lokalti.se
 idrottensaffarer.se
 vf.se
-hjotidning.se
-kt.se
 kt-kuriren.se
 sla.se
 mariestadstidningen.se
@@ -1211,16 +1213,6 @@ fastighetstidningen.se
 fasting.nu
 feber.se
 tjock.se
-tasteline.com
-marcusoscarsson.se
-surfa.se
-nordichardware.se
-tv4.se
-fotbollskanalen.se
-koket.se
-teknikveckan.se
-hemhyra.se
-qx.se
 feed.meltwater.com
 feed.mikle.com
 feedblitz.com
@@ -1269,6 +1261,7 @@ svenskafans.com
 vinted.se
 adecco.com
 migranmonstret.se
+global.morningstar.com
 flm.nu
 flygtorget.se
 fn.se
@@ -1296,8 +1289,10 @@ innebandymagazinet.se
 alba.nu
 padeldirekt.se
 formeldirekt.se
+fotbollskanalen.se
 fotbollsthlm.se
 fotosidan.se
+tasteline.com
 norpan.se
 jaktjournalen.se
 akademikern.se
@@ -1327,6 +1322,7 @@ experimentarkivet.se
 frihetsnytt.se
 frilagt.se
 fritiden.se
+frizon.se
 funktionshinderpolitik.se
 funnygames.se
 nyckelspel.se
@@ -1344,13 +1340,12 @@ gamblersrules.com
 gamblingsyndication.com
 gamedistribution.com
 hitta.se
-voff-voff.se
+hundnytt.se
 tvmatchen.nu
 gamesglue.com
 gatekeeperconsent.com
 skolporten.se
 sjf.se
-global.morningstar.com
 vidzflow.com
 vinia.se
 kvartal.se
@@ -1432,6 +1427,7 @@ helgon.se
 gamemonetize.com
 helloreco.com
 hembygd.se
+hemhyra.se
 hemmafixbloggen.se
 hemmanytt.se
 wernamaten.se
@@ -1533,10 +1529,6 @@ transportochlogistik.se
 metallerochgruvor.se
 papperochmassa.se
 miningmetalnews.com
-visitskane.com
-ergo.nu
-ki.se
-sxk.se
 industritorget.se
 inet.se
 ingest.analytics.nation.dev
@@ -1571,7 +1563,6 @@ internetodontologi.se
 prv.se
 skrattsajten.com
 investeramera.se
-investerarbrevet.se
 iphonecasinon.com
 ipo.se
 it-finans.se
@@ -1619,6 +1610,7 @@ kaptenkryss.se
 kardemummagumman.se
 karinrahm.se
 sydasien.se
+magasindagg.se
 karlskogavaxer.se
 molndalvaxer.se
 livinguppsala.se
@@ -1749,11 +1741,13 @@ nyheteridag.se
 svenskalag.se
 studentlund.se
 load.lite.lchfarkivet.se
+load.znq.tt.se
 logger.tv.nu
 logs.sesamy.com
 logsnag.com
 lok.se
 lokalfotboll.se
+speltips.se
 lokalnytt.se
 senses.se
 temadagar.se
@@ -1848,7 +1842,6 @@ m3.se
 pcforalla.se
 macworld.se
 macken.xyz
-magasindagg.se
 magasinetparagraf.se
 vatternrundan.se
 pellesoft.se
@@ -1856,7 +1849,6 @@ varmepumpsforum.com
 poolforum.se
 classiccars.se
 skargardenfinland.com
-thefork.se
 magazin24.se
 mailchimp.com
 mailerlite.com
@@ -1888,6 +1880,7 @@ matsaklart.se
 lyckasmedbakning.nu
 matspar.se
 maxetise.net
+maxroll.gg
 mcgtrack.herokuapp.com
 media.arto.se
 media.dagensps.se
@@ -1907,13 +1900,14 @@ metapic.se
 mhis.se
 mindoktor.se
 minhembio.com
+nordichardware.se
+surfa.se
 turistmal.se
 minimalisterna.se
 missaffiliate.com
 missatsamtal.se
 misssite.com
 tyda.se
-mmanytt.se
 speakpipe.com
 mkse.com
 mmabetz.se
@@ -1959,6 +1953,7 @@ studier.se
 husdjur.se
 chalmers.se
 ff.se
+qx.se
 varldenidag.se
 friidrott.se
 friidrottsstatistik.se
@@ -2012,8 +2007,6 @@ byggforum.net
 nordiskemedier.dk
 nordiskradio.se
 nordiskskog.se
-normal.se
-transport.se
 norrortssporten.se
 norstatsurveys.com
 notedmedia.se
@@ -2173,7 +2166,6 @@ samnytt.nu
 1x2.se
 swebbtv.se
 mcparken.se
-thephuketexpress.se
 svegot.se
 sanity.io
 sannsyn.com
@@ -2224,6 +2216,7 @@ skargarden.se
 skargardsradion.se
 skillingaryd.nu
 xn--vrnamo-bua.nu
+marcusoscarsson.se
 skogsentreprenorerna.se
 skogsforum.pro
 skrattnet.se
@@ -2235,13 +2228,13 @@ snt-matrix-app.herokuapp.com
 so-rummet.se
 skatter.se
 arkivet.ax
+visitskane.com
 soderkopingsposten.se
 softonic.se
 solidtango.com
 solostove.com
 sonar.viously.com
 sonicmagazine.com
-soundshine.se
 spanaren.se
 spania.no
 spanienforum.se
@@ -2249,7 +2242,6 @@ spcmp.woxikon.se
 spelagratis.se
 spelguiden.samnytt.se
 spelhubben.se
-speltips.se
 spelwidgets.se
 sportal.se
 sportbloggare.com
@@ -2325,6 +2317,7 @@ svensksegling.se
 svensktgolfforum.se
 sweatybusiness.se
 swecalmagazine.com
+sxk.se
 sydnarkenytt.se
 sync.3fmediagroup.com
 synonyma.se
@@ -2341,6 +2334,7 @@ tc.hometogo.net
 teknifik.se
 teknikguiden.se
 tekniksmart.se
+teknikveckan.se
 vemringde.se
 itmag.se
 ingenjoren.se
@@ -2382,6 +2376,7 @@ goteborg.media
 trailer.se
 trucking.se
 traning40plus.se
+transport.se
 travelgrip.se
 travellink.se
 travronden.se
@@ -2445,6 +2440,8 @@ visbymaklarna.se
 viseniorer.se
 visitlulea.se
 arkeologikonsult.se
+ergo.nu
+ki.se
 vittsjobjarnum.nu
 vk.com
 vmhockey.se
@@ -2456,7 +2453,6 @@ wb-analytics.onecruiter.com
 wct-1.com
 webbannons.ntm.eu
 webbjobb.io
-webbkryss.nu
 webformscr.com
 webhallen.com
 webpower.eu
