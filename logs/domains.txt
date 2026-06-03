@@ -63,7 +63,6 @@ affarsvarlden.se
 affiliatable.io
 affiliator.com
 aftonbladet.se
-godare.se
 byggahus.se
 expressen.se
 elle.se
@@ -580,7 +579,6 @@ poloniainfo.se
 alltombostad.se
 thepattayanewsse.com
 atl.nu
-landlantbruk.se
 land.se
 dn.se
 tradera.com
@@ -737,7 +735,6 @@ telepriskollen.se
 kontantkort.se
 simkort.se
 xn--fackfrbund-icb.com
-emocore.se
 brollopsguiden.se
 brukshunden.se
 bstatic.com
@@ -1133,6 +1130,7 @@ embed.lpcontent.net
 embed.viaplay.com
 embi-media.com
 emg-services.net
+emocore.se
 emotorsport.se
 engine.groweo.com
 enterprisemagazine.se
@@ -1434,7 +1432,6 @@ wernamaten.se
 sanghafte.se
 xn--gtboken-exa.se
 hemnet.se
-kantarsifo.se
 foretagarna.se
 matpriskollen.se
 heroaffiliates.com
@@ -1676,7 +1673,6 @@ kwiss.me
 kyrkpressen.fi
 lagenhetsbyte.se
 lakartidningen.se
-lanapengar.expressen.se
 landleyskok.se
 landsbygdsnatverket.se
 greppa.nu
@@ -1994,7 +1990,7 @@ arbetsterapeuterna.se
 officersforbundet.se
 sjobefalsforeningen.se
 sverigesskolledare.se
-akeritidning.se
+tidning.akeri.se
 tidningennotkott.se
 lawline.se
 nichehuset.dk
@@ -2215,7 +2211,6 @@ skanesport.se
 skargarden.se
 skargardsradion.se
 skillingaryd.nu
-xn--vrnamo-bua.nu
 marcusoscarsson.se
 skogsentreprenorerna.se
 skogsforum.pro
@@ -2413,7 +2408,6 @@ valentinosverige.com
 longchampstockholm.com.se
 alkemi.com.se
 alphalete.com.se
-championsverige.com.se
 rpofsweden.com
 rpofsweden.se
 vardegrunden.se
