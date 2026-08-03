@@ -21,6 +21,7 @@
 127.0.0.1 assets.bonad.io
 127.0.0.1 bam.bonad.io
 127.0.0.1 bongeo.bonad.io
+127.0.0.1 context.bonad.io
 127.0.0.1 cdn.brandmetrics.com
 127.0.0.1 collector.brandmetrics.com
 127.0.0.1 buzzador.com
@@ -502,7 +503,6 @@
 127.0.0.1 ce15487c31ed84e82d0694948a8889f7e3b1685d54.nuid.imrworldwide.com
 127.0.0.1 cdn-gl.imrworldwide.com
 127.0.0.1 www.anrdoezrs.net
-127.0.0.1 digitalfeedback.euro.confirmit.com
 127.0.0.1 services.bilsyndication.com
 127.0.0.1 jsc.mgid.com
 127.0.0.1 bilpolicydi.bytelab.dk
@@ -539,7 +539,6 @@
 127.0.0.1 cdn-scripts.signifyd.com
 127.0.0.1 www.awltovhc.com
 127.0.0.1 counter.yadro.ru
-127.0.0.1 cdn.vip-hd-movies.xyz
 127.0.0.1 platform.bidgear.com
 127.0.0.1 cdn.hubvisor.io
 127.0.0.1 cdn.matomo.cloud
@@ -736,7 +735,6 @@
 127.0.0.1 iba.feedblitz.com
 127.0.0.1 ipmeta.io
 127.0.0.1 angry-golick-2a96e5.netlify.app
-127.0.0.1 adncdnend.azureedge.net
 127.0.0.1 assets.revcontent.com
 127.0.0.1 offer-go.com
 127.0.0.1 t.elasticsuite.io
@@ -925,7 +923,6 @@
 127.0.0.1 stats.playoncenter.com
 127.0.0.1 www.adsmatcher.com
 127.0.0.1 valentinosverige.com
-127.0.0.1 longchampstockholm.com.se
 127.0.0.1 alkemi.com.se
 127.0.0.1 www.alphalete.com.se
 127.0.0.1 rpofsweden.com
@@ -958,7 +955,6 @@
 127.0.0.1 gtm.proff.se
 127.0.0.1 eum.instana.io
 127.0.0.1 cdn.adligature.com
-127.0.0.1 system-notify.app
 127.0.0.1 t.atmng.io
 127.0.0.1 tag.heylink.com
 127.0.0.1 tag.aticdn.net
@@ -1147,8 +1143,14 @@
 127.0.0.1 vitals.flyingpress.com
 127.0.0.1 banneradder.se
 127.0.0.1 ezoicanalytics.com
+127.0.0.1 fp.mediaintelliview.com
 127.0.0.1 track.mediaintelliview.com
 127.0.0.1 live-tag.creatopy.net
 127.0.0.1 jsc.native.azerion.com
+127.0.0.1 ads.samnytt.se
 127.0.0.1 analytics.samnytt.se
 127.0.0.1 app.lupper.se
+127.0.0.1 b-static.bet-links.com
+127.0.0.1 widget.monocular-agency.com
+127.0.0.1 analytics.magnic.com
+127.0.0.1 cdn.visitors.now
