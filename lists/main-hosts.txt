@@ -216,7 +216,6 @@
 127.0.0.1 borsvarlden-banners.azurewebsites.net
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 log-api.newrelic.com
-127.0.0.1 s.vi-serve.com
 127.0.0.1 svt.d3.sc.omtrdc.net
 127.0.0.1 auction-release.mlpapi.com
 127.0.0.1 elasticad.net
@@ -929,7 +928,6 @@
 127.0.0.1 rpofsweden.se
 127.0.0.1 digitaliseringsinitiativet.se
 127.0.0.1 toppmarkensverige.com
-127.0.0.1 fraagesport.com
 127.0.0.1 analytics.apotekhjartat.se
 127.0.0.1 darwin.affiliatewindow.com
 127.0.0.1 img.ascontentcloud.com
@@ -1116,6 +1114,7 @@
 127.0.0.1 adsdk.microsoft.com
 127.0.0.1 cdn.spelwidgets.se
 127.0.0.1 matomo.nokportalen.se
+127.0.0.1 insights.analys.cloud
 127.0.0.1 premium.analys.cloud
 127.0.0.1 www.creativeconsortiuminspired.com
 127.0.0.1 leue.stape.net
@@ -1155,3 +1154,4 @@
 127.0.0.1 analytics.magnic.com
 127.0.0.1 cdn.visitors.now
 127.0.0.1 da.klirly.io
+127.0.0.1 cdn.visibilitykit.ai
